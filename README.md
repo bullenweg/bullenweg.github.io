@@ -44,7 +44,7 @@ In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) 
 
 ### 2024-10-04
 
-#### [Automattic—WP Engine Term Sheet](https://automattic.com/2024/10/01/wpe-terms/)
+#### Misrepresents history in "[Automattic—WP Engine Term Sheet](https://automattic.com/2024/10/01/wpe-terms/)" blog post
 
 > May 30: Automattic shares first term sheet with WP Engine via email.
 
