@@ -23,9 +23,10 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-10-05](#2024-10-05)
 * [2024-10-04](#2024-10-04)
 * [2024-10-03](#2024-10-03)
-* [2024-10-03](#2024-10-02)
-* [2024-10-03](#2024-10-01)
+* [2024-10-02](#2024-10-02)
+* [2024-10-01](#2024-10-01)
 * [2024-09-29](#2024-09-29)
+* [2024-09-25](#2024-09-25)
 * [2024-09-24](#2024-09-24)
 
 ### 2024-10-05 
@@ -79,6 +80,14 @@ Later admits Automattic finances WordPress.org.
 ### 2024-09-29
 
 #### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU).
+
+### 2024-09-25
+
+#### Publishes "Charitable Contributions" on ma.tt
+
+> I have kept my personal philanthropy private until now.
+
+Matt has published information about his personal philanthropy many times.
 
 ### 2024-09-24
 
