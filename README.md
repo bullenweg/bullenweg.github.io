@@ -141,8 +141,7 @@ WP Engine responds in [Automattic’s Actionable Misconduct Directed to WP Engin
 > 
 > The post falsely states, “What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.” In truth, WP Engine’s WordPress installations are identical to the WordPress.org ZIP file which defines WordPress.  ~[Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
 
-
-
+Automattic themselves disable a wide variety of features in their paid products, like WordPress.com, Pressable and JetPack.
 
 ## References
 
