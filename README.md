@@ -8,6 +8,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+* [2024-10-07](#2024-10-07)
 * [2024-10-05](#2024-10-05)
 * [2024-10-04](#2024-10-04)
 * [2024-10-03](#2024-10-03)
@@ -18,6 +19,14 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-09-25](#2024-09-25)
 * [2024-09-24](#2024-09-24)
 * [2024-09-21](#2024-09-21)
+
+### 2024-10-07
+
+#### Tweets about GraphQL
+
+> Everyone thinks WPE owns GraphQL but they don’t. ~[@photomatt on X](https://x.com/photomatt/status/1843058551058784635)
+
+Obviously "everyone" does not think that WPE own GraphQL because GraphQL has nothing to do with WordPress.
 
 ### 2024-10-05 
 
