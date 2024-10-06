@@ -122,6 +122,10 @@ Matt modifies the [WordPress trademark policy](https://wordpressfoundation.org/t
 
 WP Engine provides an automated backup and restore solution. Automattic's own WordPress.com limits WordPress features.
 
+> What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.
+
+> The post falsely states, “What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.” In truth, WP Engine’s WordPress installations are identical to the WordPress.org ZIP file which defines WordPress.  ~[Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
+
 ## Contributions
 
 Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io](https://github.com/bullenweg/bullenweg.github.io).
@@ -132,4 +136,7 @@ Bullenweg.com is not associated with Automattic, WP Engine, Silver Lake or Matth
 
 ## References
 
-[Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf)
+| Name | Date |
+|--|--|
+| [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) | 2024-10-02 |
+| [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) | 2024-09-23 |
