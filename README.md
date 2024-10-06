@@ -34,6 +34,12 @@ In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) 
 
 > Automattic's security team has responsibly disclosed a vulnerability in @wp_acf to @wpengine. As is standard, they have 30 days to issue a fix before public disclosure. We have reserved this CVE for the issue: https://www.cve.org/CVERecord?id=CVE-2024-9529
 
+#### Refuses to leave former Automattic employee Slack channel
+
+> @photomatt joins the chat and refuses to leave after being asked politely. A safe space for former automatticians.
+
+Via [@kellie](https://x.com/kellie/status/1842625951508701214) on X.
+
 ### 2024-10-04
 
 #### [Automattic—WP Engine Term Sheet](https://automattic.com/2024/10/01/wpe-terms/)
