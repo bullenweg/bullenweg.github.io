@@ -94,7 +94,7 @@ Subsequently admitted the trademark is not the problem.
 
 ### 2024-09-25
 
-#### Publishes "Charitable Contributions" on ma.tt
+#### Publishes "[Charitable Contributions](https://ma.tt/2024/09/charitable-contributions/)" on ma.tt
 
 > I have kept my personal philanthropy private until now.
 
