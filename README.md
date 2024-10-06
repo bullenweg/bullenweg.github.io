@@ -1,6 +1,6 @@
 # Matt Mullenweg's Bullenweg
 
-Every time Matt Mullenweg has lied, misrepresented or behaved in a questonable manner. [Please contribute](#contributions).
+Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable manner. [Please contribute](#contributions).
 
 ## References
 
@@ -9,8 +9,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questonable m
 | Site        | Profile      |
 | ------------| -------------|
 | X (Twitter) | [@photomatt](https://x.com/photomatt)   |
-| Reddit      | [/u/photomatt](https://reddit.com/user/photomatt) |
-| Hacker News | [photomatt](https://news.ycombinator.com/user?id=photomatt) |
+| Reddit      | [/u/photomatt](https://reddit.com/user/photomatt) ([archive](https://web.archive.org/web/20240927143217/reddit.com/user/photomatt)) |
+| Hacker News | [photomatt](https://news.ycombinator.com/user?id=photomatt) ([archive](https://web.archive.org/web/20240930175846/news.ycombinator.com/user?id=photomatt)) |
 
 ### Interviews
 
