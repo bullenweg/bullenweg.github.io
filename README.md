@@ -68,6 +68,8 @@ Per [Mike Julian on Twitter](https://x.com/mike_julian/status/184276061039382572
 
 > The Foundation is a 501c3, so if it ran http://WordPress.org we'd have to remove all commercial plugins and anything that could be seen as promoting a for-profit. Would you like that? ~[@photomatt on X](https://x.com/photomatt/status/1841399185649623074)
 
+The WordPress Foundation has many for-profit subsidiaries.
+
 ### 2024-10-01
 
 Claimed to own WordPress.org himself and implies he finances it.
@@ -86,7 +88,7 @@ Later admits Automattic finances WordPress.org.
 
 #### Lies about dispute with WP Engine
 
-> The problem isn't their use of WP, it's their use of the WordPress and WooCommerce trademarks. [photomatt on Hacker News](https://news.ycombinator.com/item?id=41678035)
+> The problem isn't their use of WP, it's their use of the WordPress and WooCommerce trademarks. ~[photomatt on Hacker News](https://news.ycombinator.com/item?id=41678035)
 
 Subsequently admitted the trademark is not the problem.
 
