@@ -38,7 +38,7 @@ In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) 
 
 > @photomatt joins the chat and refuses to leave after being asked politely. A safe space for former automatticians.
 
-Via [@kellie](https://x.com/kellie/status/1842625951508701214) on X.
+~[@kellie on X](https://x.com/kellie/status/1842625951508701214)
 
 ### 2024-10-04
 
@@ -60,14 +60,27 @@ Per [Mike Julian on Twitter](https://x.com/mike_julian/status/184276061039382572
 
 > we looked back ten years and found seven total cases. Mr. Katyal has lost three times, won twice.
 
-
 ### 2024-10-02
 
 #### Lies about reason to own WordPress.org himself
 
 > The Foundation is a 501c3, so if it ran http://WordPress.org we'd have to remove all commercial plugins and anything that could be seen as promoting a for-profit. Would you like that?
 
-Via [@photomatt](https://x.com/photomatt/status/1841399185649623074) on X.
+~[@photomatt on X](https://x.com/photomatt/status/1841399185649623074)
+
+### 2024-10-01
+
+Claimed to own WordPress.org himself and implies he finances it.
+
+> Please propose an alternative! They need to be independently wealthy to subsidize W.org, which serves 30k requests a second at peak, and ideally command a for-profit entity that can contribute thousands of hours a week to WordPress.
+
+~[@photomatt on X](https://x.com/photomatt/status/1840892990413553976)
+
+Later admits Automattic finances WordPress.org.
+
+> Automattic employs ~100 people that work full-time on WordPress.org. I can appoint them into positions on WordPress.org, if I think that's appropriate.
+
+~[photomatt on Hacker News](https://news.ycombinator.com/item?id=41726796)
 
 ### 2024-09-29
 
