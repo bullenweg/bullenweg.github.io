@@ -123,6 +123,14 @@ Matt modifies the [WordPress trademark policy](https://wordpressfoundation.org/t
 
 #### Publishes "[WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)"
 
+> It has to be said and repeated: WP Engine is not WordPress. My own mother was confused and thought WP Engine was an official thing.
+
+WordPress.org itself acknowledges the same confusion exists with WordPress.com.
+
+> People are often confused about the differences between WordPress.com and WordPress.org because they sure sound similar. This workshop highlights the key differences between .Org and .Com. Watch this short video to answer any questions you have. ~[What is the difference between WordPress .Com and .Org?](https://learn.wordpress.org/tutorial/what-is-the-difference-between-wordpress-org-and-com/)
+
+Matt goes on to say:
+
 > WordPress is a content management system, and the content is sacred. Every change you make to every page, every post, is tracked in a revision system, just like the Wikipedia.
 > ...
 > **WP Engine turns this off**. They disable revisions because it costs them more money to store the history of the changes in the database, and they don’t want to spend that to protect your content.
@@ -132,6 +140,9 @@ WP Engine responds in [Automattic’s Actionable Misconduct Directed to WP Engin
 > What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.
 > 
 > The post falsely states, “What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.” In truth, WP Engine’s WordPress installations are identical to the WordPress.org ZIP file which defines WordPress.  ~[Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
+
+
+
 
 ## References
 
