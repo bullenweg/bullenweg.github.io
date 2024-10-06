@@ -82,7 +82,7 @@ The WordPress Foundation has many for-profit subsidiaries.
 
 ### 2024-10-01
 
-Claims to own WordPress.org himself and implies he finances it.
+Admits to owning WordPress.org himself and implies he finances it.
 
 > Please propose an alternative! They need to be independently wealthy to subsidize W.org, which serves 30k requests a second at peak, and ideally command a for-profit entity that can contribute thousands of hours a week to WordPress. ~[@photomatt on X](https://x.com/photomatt/status/1840892990413553976)
 
@@ -96,7 +96,7 @@ Later admits Automattic finances WordPress.org.
 
 ### 2024-09-28
 
-#### Lies about dispute with WP Engine
+#### Lies about motivation for dispute with WP Engine
 
 > The problem isn't their use of WP, it's their use of the WordPress and WooCommerce trademarks. ~[photomatt on Hacker News](https://news.ycombinator.com/item?id=41678035)
 
