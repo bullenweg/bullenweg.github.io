@@ -58,7 +58,7 @@ The term sheet Automattic sent to WP Engine in May 2024 did not refer to the Wor
 
 > TL;DR: Matt Mullenweg, the CEO of Automattic, co-founder of WordPress, and single point of failure for WordPress.org is trying to bully me with legal threats over my commentary regarding his recent behavior.
 
-[https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862]("Nice Guy" Matt Mullenweg, CEO of WordPress.com Cries Foul and Threatens Me With Legal Action)
+["Nice Guy" Matt Mullenweg, CEO of WordPress.com Cries Foul and Threatens Me With Legal Action](https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862)
 
 ### 2024-10-03
 
