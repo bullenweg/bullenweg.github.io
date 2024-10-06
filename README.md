@@ -50,6 +50,16 @@ In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) 
 
 The term sheet Automattic sent to WP Engine in May 2024 did not refer to the WordPress Trademark.
 
+#### Blocks Automattic employees from using Blind
+
+> Right now emails from Blind are forwarding to me. ~[@kellie on X](https://x.com/kellie/status/1842231237903282391)
+
+#### Threatens former employee with legal action
+
+> TL;DR: Matt Mullenweg, the CEO of Automattic, co-founder of WordPress, and single point of failure for WordPress.org is trying to bully me with legal threats over my commentary regarding his recent behavior.
+
+[https://medium.com/@kelliepeterson/nice-guy-matt-mullenweg-ceo-of-wordpress-com-cries-foul-and-threatens-me-with-legal-action-f116ac57d862](“Nice Guy” Matt Mullenweg, CEO of WordPress.com Cries Foul and Threatens Me With Legal Action)
+
 ### 2024-10-03
 
 #### [Response to WP Engine’s Meritless Lawsuit](https://automattic.com/2024/10/03/meritless/)
