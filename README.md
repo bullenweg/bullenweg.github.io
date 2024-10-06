@@ -120,10 +120,10 @@ Matt modifies the [WordPress trademark policy](https://wordpressfoundation.org/t
 > ...
 > **WP Engine turns this off**. They disable revisions because it costs them more money to store the history of the changes in the database, and they don’t want to spend that to protect your content.
 
-WP Engine provides an automated backup and restore solution. Automattic's own WordPress.com limits WordPress features.
+WP Engine responded in [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf).
 
 > What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.
-
+> 
 > The post falsely states, “What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.” In truth, WP Engine’s WordPress installations are identical to the WordPress.org ZIP file which defines WordPress.  ~[Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
 
 ## Contributions
