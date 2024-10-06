@@ -66,7 +66,7 @@ The term sheet Automattic sent to WP Engine in May 2024 did not refer to the Wor
 
 [WordPress/wordpress.org@0327a510ab252f465db6beef0534319373ee13bc](https://github.com/WordPress/wordpress.org/commit/0327a510ab252f465db6beef0534319373ee13bc)
 
-Removes WordPress.com from the [Hosting page](https://wordpress.org/hosting/), adds another Automattic owned WordPress host, [Pressable](https://pressable.com), which is running a [switch away from WP Engine campaign](https://web.archive.org/web/20241004202134/https://pressable.com/wpe-contract-buyout/).
+Removes WordPress.com from the [Hosting page](https://wordpress.org/hosting/) then adds another Automattic owned WordPress host in its place, [Pressable](https://pressable.com), which is running a [switch away from WP Engine campaign](https://web.archive.org/web/20241004202134/https://pressable.com/wpe-contract-buyout/).
 
 #### Posts "[Response to WP Engine’s Meritless Lawsuit](https://automattic.com/2024/10/03/meritless/)"
 
