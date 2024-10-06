@@ -63,7 +63,7 @@ The term sheet Automattic sent to WP Engine in May 2024 did not refer to the Wor
 
 ### 2024-10-03
 
-#### [Response to WP Engine’s Meritless Lawsuit](https://automattic.com/2024/10/03/meritless/)
+#### Posts "[Response to WP Engine’s Meritless Lawsuit](https://automattic.com/2024/10/03/meritless/)"
 
 Matt appoints Neal Katyal and makes the following claim:
 
