@@ -18,6 +18,13 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 | ---- | ---- | 
 | [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 |
 
+### Documents
+
+| Name | Date |
+|--|--|
+| [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) | 2024-10-02 |
+| [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) | 2024-09-23 |
+
 ## Timeline
 
 * [2024-10-05](#2024-10-05)
@@ -150,10 +157,3 @@ Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io
 ## Authors
 
 Bullenweg.com is not associated with Automattic, WP Engine, Silver Lake or Matthew Charles Mullenweg.
-
-## References
-
-| Name | Date |
-|--|--|
-| [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) | 2024-10-02 |
-| [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) | 2024-09-23 |
