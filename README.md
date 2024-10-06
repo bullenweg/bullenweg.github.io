@@ -78,4 +78,4 @@ Bullenweg.com is not associated with Automattic, WPEngine or Matthew Charles Mul
 
 ## References
 
-https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf
+[Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf)
