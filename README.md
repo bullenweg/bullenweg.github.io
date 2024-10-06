@@ -29,6 +29,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-09-28](#2024-09-28)
 * [2024-09-25](#2024-09-25)
 * [2024-09-24](#2024-09-24)
+* [2024-09-21](#2024-09-21)
 
 ### 2024-10-05 
 
