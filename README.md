@@ -71,7 +71,7 @@ The WordPress Foundation has many for-profit subsidiaries.
 
 ### 2024-10-01
 
-Claimed to own WordPress.org himself and implies he finances it.
+Claims to own WordPress.org himself and implies he finances it.
 
 > Please propose an alternative! They need to be independently wealthy to subsidize W.org, which serves 30k requests a second at peak, and ideally command a for-profit entity that can contribute thousands of hours a week to WordPress. ~[@photomatt on X](https://x.com/photomatt/status/1840892990413553976)
 
