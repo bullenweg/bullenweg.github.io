@@ -60,6 +60,15 @@ Per [Mike Julian on Twitter](https://x.com/mike_julian/status/184276061039382572
 
 > we looked back ten years and found seven total cases. Mr. Katyal has lost three times, won twice.
 
+
+### 2024-10-02
+
+#### Lies about reason to own WordPress.org himself
+
+> The Foundation is a 501c3, so if it ran http://WordPress.org we'd have to remove all commercial plugins and anything that could be seen as promoting a for-profit. Would you like that?
+
+Via [@photomatt](https://x.com/photomatt/status/1841399185649623074) on X.
+
 ### 2024-09-29
 
 #### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU).
