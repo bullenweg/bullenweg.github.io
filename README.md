@@ -112,6 +112,16 @@ Matt modifies the [WordPress trademark policy](https://wordpressfoundation.org/t
 > 
 > If you would like to use the WordPress trademark commercially, please contact Automattic, they have the exclusive license. Their only sub-licensee is Newfold.
 
+### 2024-09-21
+
+#### Publishes "[WP Engine is not WordPress](https://wordpress.org/news/2024/09/wp-engine/)"
+
+> WordPress is a content management system, and the content is sacred. Every change you make to every page, every post, is tracked in a revision system, just like the Wikipedia.
+> ...
+> **WP Engine turns this off**. They disable revisions because it costs them more money to store the history of the changes in the database, and they don’t want to spend that to protect your content.
+
+WP Engine provides an automated backup and restore solution. Automattic's own WordPress.com limits WordPress features.
+
 ## Contributions
 
 Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io](https://github.com/bullenweg/bullenweg.github.io).
