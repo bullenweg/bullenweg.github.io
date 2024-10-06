@@ -96,6 +96,12 @@ Subsequently admitted the trademark is not the problem.
 
 ### 2024-09-25
 
+#### Publishes "[WP Engine is banned from WordPress.org](https://wordpress.org/news/2024/09/wp-engine-banned/)"
+
+> What I will tell you is that, pending their legal claims and litigation against WordPress.org, WP Engine no longer has free access to WordPress.org’s resources.
+
+WP Engine did not make any legal claims against WordPress.org, they issued a cease and desist to Automattic ([Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)).
+
 #### Publishes "[Charitable Contributions](https://ma.tt/2024/09/charitable-contributions/)" on ma.tt
 
 > I have kept my personal philanthropy private until now.
