@@ -14,9 +14,9 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ### Interviews
 
-| Title | Date | Mirror |
-| ---- | ---- | ---- |
-| [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 | |
+| Title | Date |
+| ---- | ---- | 
+| [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 |
 
 ## Timeline
 
@@ -34,7 +34,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 #### Announces Advanced Custom Fields security vulnerability
 
-In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) Automattic (Matt) violated responsible disclosure by announcing a vulnerability in WPEngine's ACF plugin.
+In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) Automattic (Matt) violates responsible disclosure by announcing a vulnerability in WPEngine's ACF plugin.
 
 > Automattic's security team has responsibly disclosed a vulnerability in @wp_acf to @wpengine. As is standard, they have 30 days to issue a fix before public disclosure. We have reserved this CVE for the issue: https://www.cve.org/CVERecord?id=CVE-2024-9529
 
@@ -90,7 +90,7 @@ Later admits Automattic finances WordPress.org.
 
 > The problem isn't their use of WP, it's their use of the WordPress and WooCommerce trademarks. ~[photomatt on Hacker News](https://news.ycombinator.com/item?id=41678035)
 
-Subsequently admitted the trademark is not the problem.
+Subsequently admits the trademark is not the problem and is being used as an angle to attack WP Engine.
 
 > “The analogy I made is they got Al Capone for taxes,” Mullenweg says. “So, if a company was making half a billion dollars from WordPress and contributing back about $100,000 a year, yes, I would be trying to get them to contribute more.” WP Engine competes directly with the hosting services offered by Automattic and WordPress.com, and Mullenweg argues one of the reasons for its success is the use of “WordPress” across its site. “That’s why we’re using that legal avenue to really, yeah, pressure them. That’s true: we are pressuring them.” ~[The Verge "Matt Mullenweg: ‘WordPress.org just belongs to me’"](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)
 
@@ -126,7 +126,7 @@ Matt modifies the [WordPress trademark policy](https://wordpressfoundation.org/t
 > ...
 > **WP Engine turns this off**. They disable revisions because it costs them more money to store the history of the changes in the database, and they don’t want to spend that to protect your content.
 
-WP Engine responded in [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf).
+WP Engine responds in [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf).
 
 > What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.
 > 
