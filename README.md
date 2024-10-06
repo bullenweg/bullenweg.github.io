@@ -2,28 +2,9 @@
 
 Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable manner. [Please contribute](#contributions).
 
-## References
-
-### Profiles
-
-| Site        | Profile      |
-| ------------| -------------|
-| X (Twitter) | [@photomatt](https://x.com/photomatt)   |
-| Reddit      | [/u/photomatt](https://reddit.com/user/photomatt) ([archive](https://web.archive.org/web/20240927143217/reddit.com/user/photomatt)) |
-| Hacker News | [photomatt](https://news.ycombinator.com/user?id=photomatt) ([archive](https://web.archive.org/web/20240930175846/news.ycombinator.com/user?id=photomatt)) |
-
-### Interviews
-
-| Title | Date |
-| ---- | ---- | 
-| [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 |
-
-### Documents
-
-| Name | Date |
-|--|--|
-| [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) | 2024-10-02 |
-| [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) | 2024-09-23 |
+* [Timeline](#timeline)
+* [References](#references)
+* [Authors](#authors)
 
 ## Timeline
 
@@ -149,6 +130,29 @@ WP Engine responds in [Automattic’s Actionable Misconduct Directed to WP Engin
 > What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.
 > 
 > The post falsely states, “What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.” In truth, WP Engine’s WordPress installations are identical to the WordPress.org ZIP file which defines WordPress.  ~[Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
+
+## References
+
+### Profiles
+
+| Site        | Profile      |
+| ------------| -------------|
+| X (Twitter) | [@photomatt](https://x.com/photomatt)   |
+| Reddit      | [/u/photomatt](https://reddit.com/user/photomatt) ([archive](https://web.archive.org/web/20240927143217/reddit.com/user/photomatt)) |
+| Hacker News | [photomatt](https://news.ycombinator.com/user?id=photomatt) ([archive](https://web.archive.org/web/20240930175846/news.ycombinator.com/user?id=photomatt)) |
+
+### Interviews
+
+| Title | Date |
+| ---- | ---- | 
+| [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 |
+
+### Documents
+
+| Name | Date |
+|--|--|
+| [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) | 2024-10-02 |
+| [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) | 2024-09-23 |
 
 ## Contributions
 
