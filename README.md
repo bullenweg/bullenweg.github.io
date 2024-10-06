@@ -92,7 +92,7 @@ Later admits Automattic finances WordPress.org.
 
 Subsequently admitted the trademark is not the problem.
 
-> “The analogy I made is they got Al Capone for taxes,” Mullenweg says. “So, if a company was making half a billion dollars from WordPress and contributing back about $100,000 a year, yes, I would be trying to get them to contribute more.” WP Engine competes directly with the hosting services offered by Automattic and WordPress.com, and Mullenweg argues one of the reasons for its success is the use of “WordPress” across its site. “That’s why we’re using that legal avenue to really, yeah, pressure them. That’s true: we are pressuring them.” [The Verge "Matt Mullenweg: ‘WordPress.org just belongs to me’"](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)
+> “The analogy I made is they got Al Capone for taxes,” Mullenweg says. “So, if a company was making half a billion dollars from WordPress and contributing back about $100,000 a year, yes, I would be trying to get them to contribute more.” WP Engine competes directly with the hosting services offered by Automattic and WordPress.com, and Mullenweg argues one of the reasons for its success is the use of “WordPress” across its site. “That’s why we’re using that legal avenue to really, yeah, pressure them. That’s true: we are pressuring them.” ~[The Verge "Matt Mullenweg: ‘WordPress.org just belongs to me’"](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)
 
 ### 2024-09-25
 
