@@ -115,7 +115,7 @@ Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io
 
 ## Authors
 
-Bullenweg.com is not associated with Automattic, WPEngine or Matthew Charles Mullenweg.
+Bullenweg.com is not associated with Automattic, WP Engine, Silver Lake or Matthew Charles Mullenweg.
 
 ## References
 
