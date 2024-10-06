@@ -18,7 +18,6 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 | ---- | ---- | ---- |
 | [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 | |
 
-
 ## Timeline
 
 ### 2024-10-05 
@@ -28,6 +27,14 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) Automattic (Matt) violates responsible disclosure by announcing a vulnerability in WPEngine's ACF plugin.
 
 > Automattic's security team has responsibly disclosed a vulnerability in @wp_acf to @wpengine. As is standard, they have 30 days to issue a fix before public disclosure. We have reserved this CVE for the issue: https://www.cve.org/CVERecord?id=CVE-2024-9529
+
+### 2024-10-04
+
+#### [Automattic—WP Engine Term Sheet](https://automattic.com/2024/10/01/wpe-terms/)
+
+> May 30: Automattic shares first term sheet with WP Engine via email.
+
+The term sheet Automattic sent to WP Engine in May 2024 did not refer to the WordPress Trademark.
 
 ### 2024-10-03
 
@@ -45,6 +52,16 @@ Per [Mike Julian on Twitter](https://x.com/mike_julian/status/184276061039382572
 
 #### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU).
 
+### 2024-09-24
+
+#### Modifies WordPress Trademark Policy
+
+Matt modifies the [WordPress trademark policy](https://wordpressfoundation.org/trademark-policy/) to add:
+
+> The abbreviation “WP” is not covered by the WordPress trademarks, but please don’t use it in a way that confuses people. For example, many people think WP Engine is “WordPress Engine” and officially associated with WordPress, which it’s not. They have never once even donated to the WordPress Foundation, despite making billions of revenue on top of WordPress.
+> 
+> If you would like to use the WordPress trademark commercially, please contact Automattic, they have the exclusive license. Their only sub-licensee is Newfold.
+
 ## Contributions
 
 Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io](https://github.com/bullenweg/bullenweg.github.io).
@@ -52,3 +69,7 @@ Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io
 ## Authors
 
 Bullenweg.com is not associated with Automattic, WPEngine or Matthew Charles Mullenweg.
+
+## References
+
+
