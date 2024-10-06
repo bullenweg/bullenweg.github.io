@@ -41,7 +41,7 @@ The term sheet Automattic sent to WP Engine in May 2024 did not refer to the Wor
 
 #### ~~Blocks Automattic employees from using Blind~~
 
-> ~~Right now emails from Blind are forwarding to me. ~[@kellie on X](https://x.com/kellie/status/1842231237903282391)~~
+> ~~Right now emails from Blind are forwarding to me~~. ~[@kellie on X](https://x.com/kellie/status/1842231237903282391)
 
 > Blind is totally open for Automatticians to join again, has been for months. [@photomatt on X](https://x.com/photomatt/status/1843062466382831734)
 
