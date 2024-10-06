@@ -1,6 +1,6 @@
 # Matt Mullenweg's Bullenweg
 
-Every time Matt Mullenweg has lied, misrepresented or behaved in a questonable manner. [Please add more](https://github.com/bullenweg/bullenweg.github.io).
+Every time Matt Mullenweg has lied, misrepresented or behaved in a questonable manner. [Please contribute](#contributions).
 
 ## References
 
@@ -19,16 +19,24 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questonable m
 | [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 | |
 
 
-### Timeline
+## Timeline
 
-## 2024-10-05 
+### 2024-10-05 
 
-### Announces Advanced Custom Fields security vulnerability
+#### Announces Advanced Custom Fields security vulnerability
 
 In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) Automattic (Matt) violates responsible disclosure by announcing a vulnerability in WPEngine's ACF plugin.
 
 > Automattic's security team has responsibly disclosed a vulnerability in @wp_acf to @wpengine. As is standard, they have 30 days to issue a fix before public disclosure. We have reserved this CVE for the issue: https://www.cve.org/CVERecord?id=CVE-2024-9529
 
-## 2024-09-29
+### 2024-09-29
 
-Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU).
+#### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU).
+
+## Contributions
+
+Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io](https://github.com/bullenweg/bullenweg.github.io).
+
+## Authors
+
+Bullenweg.com is not associated with Automattic, WPEngine or Matthew Charles Mullenweg.
