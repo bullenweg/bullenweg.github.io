@@ -28,6 +28,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 > With that said, I’m excited to announce that after 3.5 wonderful years at WP Engine, I’ve accepted an offer with Automattic to continue my work on WPGraphQL as it transitions into becoming a canonical community plugin on WordPress.org.
 
+Matt's weaponisation of corporate sponsored Open Source projects harms the Open Source ecosystem, flying in the face of his claimed focus on the greater good.
+
 #### Tweets about GraphQL
 
 > Everyone thinks WPE owns GraphQL but they don’t. ~[@photomatt on X](https://x.com/photomatt/status/1843058551058784635)
