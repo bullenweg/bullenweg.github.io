@@ -24,7 +24,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 #### Acquires WPGraphQL plugin
 
-[Matt hires Jason Bahl](https://www.wpgraphql.com/2024/10/07/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic), author of WP Engine-sponsored WPGraphQL, conditional upon WPGraphQL transitioning into control of Matt (WordPress).
+[Matt hires Jason Bahl](https://www.wpgraphql.com/2024/10/07/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic), author of WP Engine-sponsored WPGraphQL, conditional upon WPGraphQL transitioning to the control of Matt.
 
 > With that said, I’m excited to announce that after 3.5 wonderful years at WP Engine, I’ve accepted an offer with Automattic to continue my work on WPGraphQL as it transitions into becoming a canonical community plugin on WordPress.org.
 
