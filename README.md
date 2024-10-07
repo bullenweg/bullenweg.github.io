@@ -164,6 +164,14 @@ WP Engine responds in [Automattic’s Actionable Misconduct Directed to WP Engin
 
 Automattic themselves disable a wide variety of features in their paid products, like WordPress.com, Pressable and JetPack.
 
+### 2024-09-17
+
+#### Posts "[WordCamp US & Ecosystem Thinking](https://ma.tt/2024/09/ecosystem-thinking/)"
+
+> Compare the Five For the Future pages from Automattic and WP Engine, two companies that are roughly the same size with revenue in the ballpark of half a billion.
+
+Matt implies Five For the Future is the only way to contribute to the WordPress ecosystem. Five For the Future counts direct contributions to the Matt-owned WordPress project, not the wider ecosystem. WP Engine contribute [Faust.js](https://faustjs.org/), sponsor [WPGraphQL](https://www.wpgraphql.com/) and develop [Local](https://localwp.com/) and [Advanced Custom Fields](https://www.advancedcustomfields.com/).
+
 ## References
 
 ### Profiles
