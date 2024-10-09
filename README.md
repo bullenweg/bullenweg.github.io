@@ -8,6 +8,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+* [2024-10-09](#2024-10-09)
 * [2024-10-08](#2024-10-08)
 * [2024-10-07](#2024-10-07)
 * [2024-10-05](#2024-10-05)
@@ -20,6 +21,14 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-09-25](#2024-09-25)
 * [2024-09-24](#2024-09-24)
 * [2024-09-21](#2024-09-21)
+
+### 2024-10-09
+
+#### Bans WordPress contributors for questioning WP Engine affiliation ban
+
+Matt bans long-term WordPress contributors for questioning his decision making in the WordPress Slack.
+
+> For anybody who wants to understand why I've been banned from the #WordPress Slack. ~[@JavierCasares](https://threadreaderapp.com/thread/1843963052183433331.html)
 
 ### 2024-10-08
 
