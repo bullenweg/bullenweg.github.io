@@ -30,9 +30,13 @@ Matt bans long-term WordPress contributors for questioning his decision making i
 
 > For anybody who wants to understand why I've been banned from the #WordPress Slack. ~[@JavierCasares](https://threadreaderapp.com/thread/1843963052183433331.html)
 
+> I was one of those banned this morning, along with Javier, from the Making WordPress Slack channel. I was also subsequently banned from wordpress.org. All seemingly for criticizing the checkbox decision. I'm a plugin developer with over 10 years of WP experience. One of my plugins is fairly well used in the community. I only say this to demonstrate the severity of what's happening. ~[/u/andrewfromatx](https://www.reddit.com/r/Wordpress/comments/1fzucul/comment/lr4r4am/)
+
 During the same conversation, Matt justifies the introduction of the WP Engine affiliation ban:
 
 > I want you all to be informed and involved. Not to stay on the sidelines.
+
+
 
 ### 2024-10-08
 
