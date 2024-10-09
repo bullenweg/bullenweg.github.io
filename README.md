@@ -8,9 +8,6 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
-<details>
-  <summary>Show timeline</summary>
-
 * [2024-10-09](#2024-10-09)
   * [Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control](#automattics-associate-general-counsel-neil-peretz-suggests-matt-is-out-of-control)
   * [Bans WordPress contributors for questioning WP Engine affiliation ban](#bans-wordpress-contributors-for-questioning-wp-engine-affiliation-ban)
@@ -42,7 +39,6 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Modifies WordPress Trademark Policy](#modifies-wordpress-trademark-policy)
 * [2024-09-21](#2024-09-21)
   * [Posts “WordCamp US & Ecosystem Thinking”](#posts-wordcamp-us--ecosystem-thinking)
-</details>
 
 ### 2024-10-09
 
