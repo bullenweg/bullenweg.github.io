@@ -1,4 +1,4 @@
-# Ma.tt Mullenweg's Bull
+# Matt Mullenweg's Bull
 
 Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable manner. [Please contribute](#contributions).
 
@@ -8,19 +8,41 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+<details>
+  <summary>Show timeline</summary>
+
 * [2024-10-09](#2024-10-09)
+  * [Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control](#automattics-associate-general-counsel-neil-peretz-suggests-matt-is-out-of-control)
+  * [Bans WordPress contributors for questioning WP Engine affiliation ban](#bans-wordpress-contributors-for-questioning-wp-engine-affiliation-ban)
 * [2024-10-08](#2024-10-08)
+  * [Lies about lawyer statements](#lies-about-lawyer-statements)
+  * [Bans access to WordPress.org for anyone affiliated with WP Engine](#bans-access-to-wordpressorg-for-anyone-affiliated-with-wp-engine)
+  * [Lies about what this is all about, again](#lies-about-what-this-is-all-about-again)
 * [2024-10-07](#2024-10-07)
+  * [Acquires WPGraphQL plugin](#acquires-wpgraphql-plugin)
+  * [Tweets about GraphQL](#tweets-about-graphql)
 * [2024-10-05](#2024-10-05)
+  * [Announces Advanced Custom Fields security vulnerability](#announces-advanced-custom-fields-security-vulnerability)
+  * [Refuses to leave former Automattic employee Slack channel](#refuses-to-leave-former-automattic-employee-slack-channel)
 * [2024-10-04](#2024-10-04)
+  * [Misrepresents history in “Automattic—WP Engine Term Sheet” blog post](#misrepresents-history-in-automatticwp-engine-term-sheet-blog-post)
+  * [Threatens former employee with legal action](#threatens-former-employee-with-legal-action)
 * [2024-10-03](#2024-10-03)
+  * [Removes WordPress.com from WordPress.org Hosting recommendations](#removes-wordpresscom-from-wordpressorg-hosting-recommendations)
+  * [Posts “Response to WP Engine’s Meritless Lawsuit”](#posts-response-to-wp-engines-meritless-lawsuit)
 * [2024-10-02](#2024-10-02)
+  * [Lies about reason to own WordPress.org himself](#lies-about-reason-to-own-wordpressorg-himself)
 * [2024-10-01](#2024-10-01)
 * [2024-09-29](#2024-09-29)
 * [2024-09-28](#2024-09-28)
+  * [Lies about motivation for dispute with WP Engine](#lies-about-motivation-for-dispute-with-wp-engine)
 * [2024-09-25](#2024-09-25)
+  * [Publishes “WP Engine is banned from WordPress.org”](#publishes-wp-engine-is-banned-from-wordpressorg)
 * [2024-09-24](#2024-09-24)
+  * [Modifies WordPress Trademark Policy](#modifies-wordpress-trademark-policy)
 * [2024-09-21](#2024-09-21)
+  * [Posts “WordCamp US & Ecosystem Thinking”](#posts-wordcamp-us--ecosystem-thinking)
+</details>
 
 ### 2024-10-09
 
