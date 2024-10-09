@@ -29,13 +29,13 @@ On [Hacker News](https://news.ycombinator.com/item?id=41782365) Matt writes:
 
 > Our lawyers have never said that WordPress.org is a non-profit or owned by the Foundation.
 
-5 days prior, on 2024-10-03, in [WordPress Trademarks: A Legal Perspective](https://automattic.com/2024/10/02/wordpress-trademarks-a-legal-perspective/), Neil Peretz the "associate general counsel at Automattic" said:
+5 days prior, on 2024-10-03, in [WordPress Trademarks: A Legal Perspective](https://web.archive.org/web/20241009005430/https://automattic.com/2024/10/02/wordpress-trademarks-a-legal-perspective/), Neil Peretz the "associate general counsel at Automattic" said:
 
 > The Foundation also licensed the name WordPress to the non-profit WordPress.org, which runs a website that facilitates access to WordPress-related software.
 
 #### Bans access to WordPress.org for anyone affiliated with WP Engine
 
-To log in to WordPress.org a user must certify that they have no association with WP Engine.
+To [log in to WordPress.org](https://web.archive.org/web/20241009053305/https://login.wordpress.org/) a user must certify that they have no association with WP Engine.
 
 > I am not affiliated with WP Engine in any way, financially or otherwise.
 
