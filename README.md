@@ -30,6 +30,10 @@ Matt bans long-term WordPress contributors for questioning his decision making i
 
 > For anybody who wants to understand why I've been banned from the #WordPress Slack. ~[@JavierCasares](https://threadreaderapp.com/thread/1843963052183433331.html)
 
+During the same conversation, Matt justifies the introduction of the WP Engine affiliation ban:
+
+> I want you all to be informed and involved. Not to stay on the sidelines.
+
 ### 2024-10-08
 
 #### Lies about lawyer statements
