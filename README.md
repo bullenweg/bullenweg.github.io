@@ -30,6 +30,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-10-02](#2024-10-02)
   * [Lies about reason to own WordPress.org himself](#lies-about-reason-to-own-wordpressorg-himself)
 * [2024-10-01](#2024-10-01)
+  * [Misrepresents WordPress.org financing](#misrepresents-wordpressorg-financing)
 * [2024-09-29](#2024-09-29)
 * [2024-09-28](#2024-09-28)
   * [Lies about motivation for dispute with WP Engine](#lies-about-motivation-for-dispute-with-wp-engine)
