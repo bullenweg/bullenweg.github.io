@@ -24,6 +24,12 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ### 2024-10-09
 
+#### Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control
+
+On Hacker News, [Neil Peretz writes](https://news.ycombinator.com/item?id=41789765):
+
+> Despite our sometimes fervent wishes, lawyers don't control clients. We are not puppeteers.
+
 #### Bans WordPress contributors for questioning WP Engine affiliation ban
 
 Matt bans long-term WordPress contributors for questioning his decision making in the WordPress Slack.
@@ -35,8 +41,6 @@ Matt bans long-term WordPress contributors for questioning his decision making i
 During the same conversation, Matt justifies the introduction of the WP Engine affiliation ban:
 
 > I want you all to be informed and involved. Not to stay on the sidelines.
-
-
 
 ### 2024-10-08
 
