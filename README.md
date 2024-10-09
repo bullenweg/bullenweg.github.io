@@ -8,6 +8,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+* [2024-10-08](#2024-10-08)
 * [2024-10-07](#2024-10-07)
 * [2024-10-05](#2024-10-05)
 * [2024-10-04](#2024-10-04)
@@ -19,6 +20,18 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-09-25](#2024-09-25)
 * [2024-09-24](#2024-09-24)
 * [2024-09-21](#2024-09-21)
+
+### 2024-10-08
+
+#### Lies about lawyer statements
+
+On [Hacker News](https://news.ycombinator.com/item?id=41782365) Matt writes:
+
+> Our lawyers have never said that WordPress.org is a non-profit or owned by the Foundation.
+
+5 days prior, on 2024-10-03, in [WordPress Trademarks: A Legal Perspective](https://automattic.com/2024/10/02/wordpress-trademarks-a-legal-perspective/), Neil Peretz the "associate general counsel at Automattic" said:
+
+> The Foundation also licensed the name WordPress to the non-profit WordPress.org, which runs a website that facilitates access to WordPress-related software.
 
 ### 2024-10-07
 
