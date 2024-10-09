@@ -33,6 +33,12 @@ On [Hacker News](https://news.ycombinator.com/item?id=41782365) Matt writes:
 
 > The Foundation also licensed the name WordPress to the non-profit WordPress.org, which runs a website that facilitates access to WordPress-related software.
 
+#### Bans access to WordPress.org for anyone affiliated with WP Engine
+
+To log in to WordPress.org a user must certify that they have no association with WP Engine.
+
+> I am not affiliated with WP Engine in any way, financially or otherwise.
+
 #### Lies about what this is all about, again
 
 Responding to [Automattic is doing open source dirty](https://world.hey.com/dhh/automattic-is-doing-open-source-dirty-b95cf128), Matt once again contradicts himself.
@@ -221,6 +227,8 @@ Matt implies Five For the Future is the only way to contribute to the WordPress 
 ## Contributions
 
 Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io](https://github.com/bullenweg/bullenweg.github.io).
+
+Email `admin@bullenweg.com` to submit information anonymously.
 
 ## Authors
 
