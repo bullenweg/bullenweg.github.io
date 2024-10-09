@@ -33,6 +33,14 @@ On [Hacker News](https://news.ycombinator.com/item?id=41782365) Matt writes:
 
 > The Foundation also licensed the name WordPress to the non-profit WordPress.org, which runs a website that facilitates access to WordPress-related software.
 
+#### Lies about what this is all about, again
+
+Responding to [Automattic is doing open source dirty](https://world.hey.com/dhh/automattic-is-doing-open-source-dirty-b95cf128), Matt once again contradicts himself.
+
+> Thank you for writing about this! I'm sorry if our messaging made you think this about the GPL — I have no issue with their use of GPL code. It's specifically about their misuse of the "WordPress" and "WooCommerce" trademarks.
+
+See: [2024-09-28 Lies about motivation for dispute with WP Engine](#lies-about-motivation-for-dispute-with-wp-engine).
+
 ### 2024-10-07
 
 #### Acquires WPGraphQL plugin
