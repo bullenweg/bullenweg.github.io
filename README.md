@@ -32,6 +32,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-10-01](#2024-10-01)
   * [Misrepresents WordPress.org financing](#misrepresents-wordpressorg-financing)
 * [2024-09-29](#2024-09-29)
+  * [Appears on Theo - t3․gg's YouTube channel for The WordPress Interview](#appears-on-theo---t3ggs-youtube-channel-for-the-wordpress-interview)
 * [2024-09-28](#2024-09-28)
   * [Lies about motivation for dispute with WP Engine](#lies-about-motivation-for-dispute-with-wp-engine)
 * [2024-09-25](#2024-09-25)
@@ -175,7 +176,7 @@ Later admits Automattic finances WordPress.org.
 
 ### 2024-09-29
 
-#### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU).
+#### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU)
 
 ### 2024-09-28
 
