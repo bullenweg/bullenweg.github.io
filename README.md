@@ -35,6 +35,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Appears on Theo - t3․gg's YouTube channel for The WordPress Interview](#appears-on-theo---t3ggs-youtube-channel-for-the-wordpress-interview)
 * [2024-09-28](#2024-09-28)
   * [Lies about motivation for dispute with WP Engine](#lies-about-motivation-for-dispute-with-wp-engine)
+* [2024-09-26](#2024-09-26)
+  * [Appears on ThePrimeagen's livestream](#appears-on-theprimeagens-livestream)
 * [2024-09-25](#2024-09-25)
   * [Publishes “WP Engine is banned from WordPress.org”](#publishes-wp-engine-is-banned-from-wordpressorg)
 * [2024-09-24](#2024-09-24)
@@ -176,7 +178,9 @@ Later admits Automattic finances WordPress.org.
 
 ### 2024-09-29
 
-#### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU)
+#### Appears on Theo - t3․gg's YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU)
+
+[![The Wordpress Drama Interview (this got cited in a lawsuit lol)](https://i.ytimg.com/vi/OUJgahHjAKU/mqdefault.jpg)](https://www.youtube.com/watch?v=OUJgahHjAKU)
 
 ### 2024-09-28
 
@@ -187,6 +191,12 @@ Later admits Automattic finances WordPress.org.
 Subsequently admits the trademark is not the problem and is being used as an angle to attack WP Engine.
 
 > “The analogy I made is they got Al Capone for taxes,” Mullenweg says. “So, if a company was making half a billion dollars from WordPress and contributing back about $100,000 a year, yes, I would be trying to get them to contribute more.” WP Engine competes directly with the hosting services offered by Automattic and WordPress.com, and Mullenweg argues one of the reasons for its success is the use of “WordPress” across its site. “That’s why we’re using that legal avenue to really, yeah, pressure them. That’s true: we are pressuring them.” ~[The Verge "Matt Mullenweg: ‘WordPress.org just belongs to me’"](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)
+
+### 2024-09-26
+
+#### Appears on ThePrimeagen's Livestream
+
+[![Matt Talks About WordPress Situation](https://i.ytimg.com/vi/H6F0PgMcKWM/mqdefault.jpg)](https://www.youtube.com/watch?v=H6F0PgMcKWM)
 
 ### 2024-09-25
 
