@@ -91,6 +91,10 @@ On [Hacker News](https://news.ycombinator.com/item?id=41782365) Matt writes:
 
 > The Foundation also licensed the name WordPress to the non-profit WordPress.org, which runs a website that facilitates access to WordPress-related software.
 
+Later that day, Matt updates the post to remove "non-profit" and Neil Peretz describes "non-profit" as a typo:
+
+> I believe there was a typo in the post. If you read this thread you'll see a note below from Matt yesterday that the post was corrected. ~[neilperetz on Hacker News](https://news.ycombinator.com/item?id=41794022)
+
 #### Bans access to WordPress.org for anyone affiliated with WP Engine
 
 To [log in to WordPress.org](https://web.archive.org/web/20241009053305/https://login.wordpress.org/) a user must certify that they have no association with WP Engine.
