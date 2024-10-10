@@ -9,6 +9,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 ## Timeline
 
 * [2024-10-09](#2024-10-09)
+  * [Suggests former employee is telling him to kill himself](#suggests-former-employee-is-telling-him-to-kill-himself)
   * [Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control](#automattics-associate-general-counsel-neil-peretz-suggests-matt-is-out-of-control)
   * [Bans WordPress contributors for questioning WP Engine affiliation ban](#bans-wordpress-contributors-for-questioning-wp-engine-affiliation-ban)
 * [2024-10-08](#2024-10-08)
@@ -45,6 +46,16 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Posts “WordCamp US & Ecosystem Thinking”](#posts-wordcamp-us--ecosystem-thinking)
 
 ### 2024-10-09
+
+#### Suggests former employee is telling him to kill himself
+
+A former employee says:
+
+> Has anyone tried turning @photomatt off and restarting him? ~[@kellie](https://x.com/kellie/status/1844007729284923901)
+
+Matt responds:
+
+> By “turning off” do you mean my life should end? ~[@photomatt](https://x.com/photomatt/status/1844153949198352622)
 
 #### Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control
 
