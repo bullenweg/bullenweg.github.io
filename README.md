@@ -87,11 +87,11 @@ On [Hacker News](https://news.ycombinator.com/item?id=41782365) Matt writes:
 
 > Our lawyers have never said that WordPress.org is a non-profit or owned by the Foundation.
 
-5 days prior, on 2024-10-03, in [WordPress Trademarks: A Legal Perspective](https://web.archive.org/web/20241009005430/https://automattic.com/2024/10/02/wordpress-trademarks-a-legal-perspective/), Neil Peretz the "associate general counsel at Automattic" said:
+5 days prior in [WordPress Trademarks: A Legal Perspective](https://web.archive.org/web/20241009005430/https://automattic.com/2024/10/02/wordpress-trademarks-a-legal-perspective/), Neil Peretz the "associate general counsel at Automattic" said:
 
 > The Foundation also licensed the name WordPress to the non-profit WordPress.org, which runs a website that facilitates access to WordPress-related software.
 
-Later that day, Matt updates the post to remove "non-profit" and Neil Peretz describes "non-profit" as a typo:
+Later on October 8th, 5 days after the post was published, Matt updates the post to remove "non-profit" and Neil Peretz describes "non-profit" as a typo:
 
 > I believe there was a typo in the post. If you read this thread you'll see a note below from Matt yesterday that the post was corrected. ~[neilperetz on Hacker News](https://news.ycombinator.com/item?id=41794022)
 
