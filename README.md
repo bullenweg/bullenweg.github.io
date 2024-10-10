@@ -9,7 +9,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 ## Timeline
 
 * [2024-10-09](#2024-10-09)
-  * [Suggests former employee is telling him to kill himself](#suggests-former-employee-is-telling-him-to-kill-himself)
+  * [Suggests former employee is making a death threat](#suggests-former-employee-is-making-a-death-threat)
   * [Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control](#automattics-associate-general-counsel-neil-peretz-suggests-matt-is-out-of-control)
   * [Bans WordPress contributors for questioning WP Engine affiliation ban](#bans-wordpress-contributors-for-questioning-wp-engine-affiliation-ban)
 * [2024-10-08](#2024-10-08)
@@ -47,7 +47,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ### 2024-10-09
 
-#### Suggests former employee is telling him to kill himself
+#### Suggests former employee is making a death threat
 
 A former employee says:
 
@@ -56,6 +56,10 @@ A former employee says:
 Matt responds:
 
 > By “turning off” do you mean my life should end? ~[@photomatt](https://x.com/photomatt/status/1844153949198352622)
+
+The next day:
+
+> Thank you for clarifying. 🙏 I get a lot of actual death threats, so am pretty sensitive to it. ~[@photomatt](https://x.com/photomatt/status/1844344699496300711#m)
 
 #### Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control
 
