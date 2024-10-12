@@ -9,8 +9,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 ## Timeline
 
 * [2024-10-11](#2024-10-11)
-  * [Matt's nose bleeds unacknowledged during podcast](#matts-nose-bleeds-unacknowledged-during-podcast)
   * [Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core](#rumors-swirl-that-matt-plans-to-bring-wp-engine-owned-advanced-custom-fields-into-wordpress-core)
+  * [Matt's nose bleeds unacknowledged during podcast](#matts-nose-bleeds-unacknowledged-during-podcast)
 * [2024-10-09](#2024-10-09)
   * [Suggests former employee is making a death threat](#suggests-former-employee-is-making-a-death-threat)
   * [Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control](#automattics-associate-general-counsel-neil-peretz-suggests-matt-is-out-of-control)
