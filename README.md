@@ -8,6 +8,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+* [2024-10-12](#2024-10-12)
+  * [Matt forks and hijacks Advanced Custom Fields](#matt-forks-and-hijacks-advanced-custom-fields)
 * [2024-10-11](#2024-10-11)
   * [Matt uses @WordPress to retweet Automattic vs. WP Engine poll](#matt-uses-wordpress-to-retweet-automattic-vs-wp-engine-poll)
   * [Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core](#rumors-swirl-that-matt-plans-to-bring-wp-engine-owned-advanced-custom-fields-into-wordpress-core)
@@ -53,6 +55,16 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-12
+
+#### Matt forks and hijacks Advanced Custom Fields
+
+As speculated, under the guise of "security", Matt forks WP Engine's Advanced Custom Fields plugin to "Secure Custom Fields" and hijacks the WordPress.org plugin page for Advanced Custom Fields to promote the fork.
+
+> On behalf of the WordPress security team, I am announcing that we are invoking point 18 of the plugin directory guidelines and are forking Advanced Custom Fields (ACF) into a new plugin, Secure Custom Fields. SCF has been updated to remove commercial upsells and fix a security problem.
+
+Yesterday "Advanced Custom Fields by WP Engine". Today "[Secure Custom Fields by WordPress.org](https://wordpress.org/plugins/advanced-custom-fields/)".
 
 ### 2024-10-11
 
