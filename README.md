@@ -95,6 +95,10 @@ Matt participates in a 30 minute podcast episode on World of DaaS with Auren Hof
 
 [![Automattic CEO Matt Mullenweg: WordPress vs WP Engine](https://i.ytimg.com/vi/WU3sd1kDFLg/mqdefault.jpg)](https://www.youtube.com/watch?v=WU3sd1kDFLg)
 
+Matt later adds [a comment to the video](https://www.youtube.com/watch?v=WU3sd1kDFLg&lc=Ugw2w4PUoDBPSRTGClx4AaABAg):
+
+> Around 20 minutes in, my nose started bleeding, which sometimes happens when I travel too much. Prior to this interview, I was on 30+ hour flights returning from Durban, where I was on safari, to Houston. I'm sorry for not noticing it happening; it's very embarrassing.
+
 ### 2024-10-09
 
 #### Suggests former employee is making a death threat
