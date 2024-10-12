@@ -8,6 +8,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+* [2024-10-11](#2024-10-11)
+  * [Matt's nose bleeds unacknowledged during podcast](#matts-nose-bleeds-unacknowledged-during-podcast)
 * [2024-10-09](#2024-10-09)
   * [Suggests former employee is making a death threat](#suggests-former-employee-is-making-a-death-threat)
   * [Automattic's "associate general counsel" Neil Peretz suggests Matt is out of control](#automattics-associate-general-counsel-neil-peretz-suggests-matt-is-out-of-control)
@@ -44,6 +46,14 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Modifies WordPress Trademark Policy](#modifies-wordpress-trademark-policy)
 * [2024-09-21](#2024-09-21)
   * [Posts “WordCamp US & Ecosystem Thinking”](#posts-wordcamp-us--ecosystem-thinking)
+
+### 2024-10-11
+
+#### Matt's nose bleeds unacknowledged during podcast
+
+Matt participates in a 30 minute podcast episode on World of DaaS with Auren Hoffman: [Automattic CEO Matt Mullenweg: WordPress vs WP Engine](https://www.youtube.com/watch?v=WU3sd1kDFLg). At 20 minutes in, Matt's nose begins bleeding and Matt, without acknowledging the nose bleed, spends the rest of the interview with blood on his face.
+
+[![Automattic CEO Matt Mullenweg: WordPress vs WP Engine)](https://i.ytimg.com/vi/WU3sd1kDFLg/mqdefault.jpg)](https://www.youtube.com/watch?v=WU3sd1kDFLg)
 
 ### 2024-10-09
 
