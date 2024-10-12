@@ -64,7 +64,7 @@ Following on from [poaching WPGraphQL from WP Engine](#acquires-wpgraphql-plugin
 
 #### Matt uses @WordPress to retweet Automattic vs. WP Engine poll
 
-Perhaps in a moment of clarity or in an effort to influence the results, [Matt uses @WordPress to retweet a poll](https://x.com/fireship_dev/status/1844742338175705570) showing community sentiment is firmly on the side of WP Engine.
+Perhaps in a moment of clarity (or more likely in an effort to influence the results), [Matt uses @WordPress to retweet a poll](https://x.com/fireship_dev/status/1844742338175705570) showing community sentiment is firmly on the side of WP Engine.
 
 <img width="600" alt="Which one is worse?" src="https://github.com/user-attachments/assets/55c24347-1b79-41b9-9c74-92f2fc472fa9">
 
