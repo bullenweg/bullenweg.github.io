@@ -49,7 +49,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-09-21](#2024-09-21)
   * [Posts “WordCamp US & Ecosystem Thinking”](#posts-wordcamp-us--ecosystem-thinking)
 
-:arrows_counterclockwise: :clock1:
+...
 
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
