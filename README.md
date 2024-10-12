@@ -68,6 +68,10 @@ Yesterday "Advanced Custom Fields by WP Engine". Today "[Secure Custom Fields by
 
 > We have been made aware that the Advanced Custom Fields plugin on the WordPress directory has been taken over by WordPress dot org. A plugin under active development has never been unilaterally and forcibly taken away from its creator **without consent** in the 21 year history of WordPress. ~[@wp_acf](https://x.com/wp_acf/status/1845169499064107049)
 
+[Secure Custom Fields on WordPress.org](https://wordpress.org/news/2024/10/secure-custom-fields/) was modified shortly after publication to recharacterize Jason Bahl's move to Automattic:
+
+> There is separate, but not directly related news that Jason Bahl has left WP Engine to work for Automattic and will be making WPGraphQL a canonical community plugin. We expect others will ~defect~ follow as well.
+
 ### 2024-10-11
 
 #### Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core
