@@ -66,6 +66,8 @@ As speculated, under the guise of "security", Matt forks WP Engine's Advanced Cu
 
 Yesterday "Advanced Custom Fields by WP Engine". Today "[Secure Custom Fields by WordPress.org](https://wordpress.org/plugins/advanced-custom-fields/)".
 
+> We have been made aware that the Advanced Custom Fields plugin on the WordPress directory has been taken over by WordPress dot org. A plugin under active development has never been unilaterally and forcibly taken away from its creator **without consent** in the 21 year history of WordPress. ~[@wp_acf](https://x.com/wp_acf/status/1845169499064107049)
+
 ### 2024-10-11
 
 #### Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core
