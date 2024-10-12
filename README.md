@@ -50,6 +50,12 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ### 2024-10-11
 
+#### Matt uses @WordPress to tweet about Automattic vs. WP Engine poll
+
+Perhaps in a moment of clarity, [Matt uses @WordPress to retweet a poll](https://x.com/fireship_dev/status/1844742338175705570) showing community sentiment is firmly on the side of WP Engine.
+
+<img width="600" alt="Which one is worse?" src="https://github.com/user-attachments/assets/55c24347-1b79-41b9-9c74-92f2fc472fa9">
+
 #### Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core
 
 Following on from [poaching WPGraphQL from WP Engine](#acquires-wpgraphql-plugin) earlier in the week, Matt makes moves to take the open-source GPL-licensed version of Advanced Custom Fields and bring it in to WordPress Core.
@@ -60,7 +66,7 @@ Following on from [poaching WPGraphQL from WP Engine](#acquires-wpgraphql-plugin
 
 Matt participates in a 30 minute podcast episode on World of DaaS with Auren Hoffman: [Automattic CEO Matt Mullenweg: WordPress vs WP Engine](https://www.youtube.com/watch?v=WU3sd1kDFLg). At 20 minutes in, Matt's nose begins bleeding and Matt, without acknowledging the nose bleed, spends the rest of the interview with blood on his face.
 
-[![Automattic CEO Matt Mullenweg: WordPress vs WP Engine)](https://i.ytimg.com/vi/WU3sd1kDFLg/mqdefault.jpg)](https://www.youtube.com/watch?v=WU3sd1kDFLg)
+[![Automattic CEO Matt Mullenweg: WordPress vs WP Engine](https://i.ytimg.com/vi/WU3sd1kDFLg/mqdefault.jpg)](https://www.youtube.com/watch?v=WU3sd1kDFLg)
 
 ### 2024-10-09
 
