@@ -307,12 +307,14 @@ Matt implies Five For the Future is the only way to contribute to the WordPress 
 | Reddit      | [/u/photomatt](https://reddit.com/user/photomatt) ([archive](https://web.archive.org/web/20240927143217/reddit.com/user/photomatt)) |
 | Hacker News | [photomatt](https://news.ycombinator.com/user?id=photomatt) ([archive](https://web.archive.org/web/20240930175846/news.ycombinator.com/user?id=photomatt)) |
 
-### Interviews
+### Video Interviews
 
-| Title | Date |
+|  Date | Title |
 | ---- | ---- | 
-| [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 |
-
+| 2024-10-11 | [Automattic CEO Matt Mullenweg: WordPress vs WP Engine](https://www.youtube.com/watch?v=WU3sd1kDFLg) on World of DaaS with Auren Hoffman | 
+| 2024-09-29 | [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) with Theo - t3․gg | 
+| 2024-09-27 | [Matt Talks About WordPress Situation](https://www.youtube.com/watch?v=H6F0PgMcKWM) with ThePrimeTime | 
+ 
 ### Documents
 
 | Name | Date |
