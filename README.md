@@ -1,7 +1,3 @@
----
-title: Matt Mullenweg's Bull
----
-
 Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable manner. [Please contribute](#contributions).
 
 * [Timeline](#timeline)
