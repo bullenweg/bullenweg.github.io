@@ -49,6 +49,11 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 * [2024-09-21](#2024-09-21)
   * [Posts “WordCamp US & Ecosystem Thinking”](#posts-wordcamp-us--ecosystem-thinking)
 
+:arrows_counterclockwise: :clock1:
+
+* [2010-09-13](#2010-09-13)
+  * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
 ### 2024-10-11
 
 #### Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core
@@ -296,6 +301,14 @@ Automattic themselves disable a wide variety of features in their paid products,
 > Compare the Five For the Future pages from Automattic and WP Engine, two companies that are roughly the same size with revenue in the ballpark of half a billion.
 
 Matt implies Five For the Future is the only way to contribute to the WordPress ecosystem. Five For the Future counts direct contributions to the Matt-owned WordPress project, not the wider ecosystem. WP Engine contribute [Faust.js](https://faustjs.org/), sponsor [WPGraphQL](https://www.wpgraphql.com/) and develop [Local](https://localwp.com/) and [Advanced Custom Fields](https://www.advancedcustomfields.com/).
+
+### 2010-09-13
+
+#### Community blog wordpress™ wank publishes prescient post warning Matt's behaviour
+
+14 years ago, [wordpress™ wank](https://wank.wordpress.com/2010/09/13/back-into-the-shade/) publishes [back into the shade](https://wank.wordpress.com/2010/09/13/back-into-the-shade/):
+
+> How do we know that the ‘foundation’ isn’t going to use trademark violation as a weapon in the GPL jihad, using it as an excuse to shut down anyone promoting non-GPL code or documentation? We had a reasonable expectation that Automattic wouldn’t do that because they’re an actual legitimate business, with a board of directors and all that jazz, and the money men might have a shot at keeping Matt’s weirder impulses in check, but now nobody else gets a say in how the trademark’s used or how abuses (real or imagined) are handled. And somehow this gets spun as a great day for open source. Awesome.
 
 ## References
 
