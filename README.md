@@ -57,6 +57,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ...
 
+* [2014-01-15](#2014-01-15)
+  * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
 
@@ -339,6 +341,14 @@ Automattic themselves disable a wide variety of features in their paid products,
 > Compare the Five For the Future pages from Automattic and WP Engine, two companies that are roughly the same size with revenue in the ballpark of half a billion.
 
 Matt implies Five For the Future is the only way to contribute to the WordPress ecosystem. Five For the Future counts direct contributions to the Matt-owned WordPress project, not the wider ecosystem. WP Engine contribute [Faust.js](https://faustjs.org/), sponsor [WPGraphQL](https://www.wpgraphql.com/) and develop [Local](https://localwp.com/) and [Advanced Custom Fields](https://www.advancedcustomfields.com/).
+
+### 2014-01-15
+
+#### Acquires thesis.com to spite WordPress theme developer
+
+Following a many-years long dispute with author of [Thesis WordPress Theme System](https://pearsonified.com/projects/thesis/) Chris Pearson, Matt acquires the domain `thesis.com` for $100,000 in retaliation.
+
+> Principles? Matt spent $100,000 to buy thesis.com—a domain in which he had no legitimate business interest—forwarded the domain to his property, and violated my trademark. ~[The Truth About Thesis.com](https://pearsonified.com/truth-about-thesis-com/)
 
 ### 2010-09-13
 
