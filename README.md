@@ -100,6 +100,8 @@ Perhaps in a moment of clarity (or more likely in an effort to influence the res
 
 <img width="600" alt="Which one is worse?" src="https://github.com/user-attachments/assets/55c24347-1b79-41b9-9c74-92f2fc472fa9">
 
+After the poll closes with voting conclusively showing community sentiment is against Matt, the retweet from @WordPress is removed.
+
 #### Matt's nose bleeds unacknowledged during podcast
 
 Matt participates in a 30 minute podcast episode on World of DaaS with Auren Hoffman: [Automattic CEO Matt Mullenweg: WordPress vs WP Engine](https://www.youtube.com/watch?v=WU3sd1kDFLg). At 20 minutes in, Matt's nose begins bleeding and Matt, without acknowledging the nose bleed, spends the rest of the interview with blood on his face.
