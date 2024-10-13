@@ -13,6 +13,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 * [2024-10-12](#2024-10-12)
   * [Matt forks and hijacks Advanced Custom Fields](#matt-forks-and-hijacks-advanced-custom-fields)
+  * [Matt uses @WordPress to dismiss founder of Client Portal](#matt-uses-wordpress-to-dismiss-founder-of-client-portal)
 * [2024-10-11](#2024-10-11)
   * [Matt uses @WordPress to retweet Automattic vs. WP Engine poll](#matt-uses-wordpress-to-retweet-automattic-vs-wp-engine-poll)
   * [Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core](#rumors-swirl-that-matt-plans-to-bring-wp-engine-owned-advanced-custom-fields-into-wordpress-core)
@@ -74,6 +75,16 @@ Yesterday "Advanced Custom Fields by WP Engine". Today "[Secure Custom Fields by
 [Secure Custom Fields on WordPress.org](https://wordpress.org/news/2024/10/secure-custom-fields/) was modified shortly after publication to recharacterize Jason Bahl's move to Automattic:
 
 > There is separate, but not directly related news that Jason Bahl has left WP Engine to work for Automattic and will be making WPGraphQL a canonical community plugin. We expect others will ~defect~ follow as well.
+
+#### Matt uses @WordPress to dismiss founder of Client Portal
+
+Laura Elizabeth, founder of WordPress Plugin [Client Portal](https://client-portal.io/), Tweets that she is unable to log in to WordPress.org due to her affiliation with WP Engine.
+
+> Guess I can’t contribute to WordPress 🤷‍♀️ [@lauraelizdunn](https://x.com/lauraelizdunn/status/1844999635145793676)
+
+Matt responds from @WordPress:
+
+> Sorry, who are you? [@WordPress](https://x.com/WordPress/status/1845121130207535524)
 
 ### 2024-10-11
 
