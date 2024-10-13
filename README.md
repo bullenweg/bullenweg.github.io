@@ -80,11 +80,11 @@ Yesterday "Advanced Custom Fields by WP Engine". Today "[Secure Custom Fields by
 
 Laura Elizabeth, founder of WordPress Plugin [Client Portal](https://client-portal.io/), Tweets that she is unable to log in to WordPress.org due to her affiliation with WP Engine.
 
-> Guess I can’t contribute to WordPress 🤷‍♀️ [@lauraelizdunn](https://x.com/lauraelizdunn/status/1844999635145793676)
+> Guess I can’t contribute to WordPress 🤷‍♀️ ~[@lauraelizdunn](https://x.com/lauraelizdunn/status/1844999635145793676)
 
-Matt responds from @WordPress:
+Matt responds:
 
-> Sorry, who are you? [@WordPress](https://x.com/WordPress/status/1845121130207535524)
+> Sorry, who are you? ~[@WordPress](https://x.com/WordPress/status/1845121130207535524)
 
 ### 2024-10-11
 
