@@ -2,11 +2,11 @@
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/bullenweg/bullenweg.github.io)](https://github.com/bullenweg/bullenweg.github.io) [![GitHub last commit](https://img.shields.io/github/last-commit/bullenweg/bullenweg.github.io)](https://github.com/bullenweg/bullenweg.github.io)
 
-
-Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable manner. [Please contribute](#contributions).
+Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable manner.
 
 * [Timeline](#timeline)
 * [References](#references)
+* [Contribute](#contribute)
 * [Authors](#authors)
 
 ## Timeline
@@ -373,7 +373,12 @@ Matt implies Five For the Future is the only way to contribute to the WordPress 
 | 2024-10-02 | [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) |
 | 2024-09-23 | [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) |
 
-## Contributions
+### Summaries
+
+* [Automattic と WP Engine の闘争](https://blog.in-the.blue/archives/2936/automattic-%e3%81%a8-wp-engine-%e3%81%ae%e9%97%98%e4%ba%89/)
+* [The Mullenweg/WPE Thing by @adrienne](https://gist.github.com/adrienne/aea9dd7ca19c8985157d9c42f7fc225d)
+
+## Contribute
 
 Please add any information via GitHub: [github.com/bullenweg/bullenweg.github.io](https://github.com/bullenweg/bullenweg.github.io).
 
