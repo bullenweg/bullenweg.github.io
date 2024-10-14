@@ -58,6 +58,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ...
 
+* [2022-06-09](#2022-06-09)
+  * [Lawsuit filed against Matt by his Mother's private nurse](#lawsuit-filed-against-matt-by-his-mothers-private-nurse)
 * [2014-01-15](#2014-01-15)
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
@@ -357,6 +359,18 @@ Automattic themselves disable a wide variety of features in their paid products,
 > Compare the Five For the Future pages from Automattic and WP Engine, two companies that are roughly the same size with revenue in the ballpark of half a billion.
 
 Matt implies Five For the Future is the only way to contribute to the WordPress ecosystem. Five For the Future counts direct contributions to the Matt-owned WordPress project, not the wider ecosystem. WP Engine contribute [Faust.js](https://faustjs.org/), sponsor [WPGraphQL](https://www.wpgraphql.com/) and develop [Local](https://localwp.com/) and [Advanced Custom Fields](https://www.advancedcustomfields.com/).
+
+### 2022-06-09
+
+#### Lawsuit filed against Matt by his Mother's private nurse
+
+A private nurse alleges Matt violated labor law, contributed to a hostile work environment and wrongfully terminated her.
+
+> 30. Numerous complaints were made directly to Defendant MATTHEW MULLENWEG regarding the severity of his mother's racism, and the discomfort it was causing Plaintiff, however he did nothing to prevent it from occurring. In fact, to the contrary, Defendant MATTHEW MULLENWEG would share the complaints made by Plaintiff with his mother who would then retaliate against Plaintiff and threaten her with termination ifshe ever complained about her racism and religious rants to her son again
+> [...]
+> 33. In addition to the racist rants and harassment about wearing a head scarfthat Plaintiff was subjected to, Defendant KATHLEEN MULLENWEG also created a hostile, and sexually charged environment by repeatedly discussing Defendant MATTHEW MULLENWEG's sex life in graphic detail. KATHLEEN MULLENWEG would discuss Defendant MATTHEW MULLENWEG's attraction to Asian women, and how Asian women were all "whores" and "sluts" and "prostitutes." She also discussed that Defendant MATTHEW MULLENWEG would engage in threesomes with his girlfriends, that Defendant MULLENWEG was easily seduced by the Asian women, that the Asian women would poke holes in condoms in an attempt to set him up for  marriage. Defendant KATHLEEN MULLENWEG would discuss how her son would sleep with multiple women at the same time, and other graphic details about Defendant Matthew MULLENWEG's sex life, Defendant KATHLEEN MULLENWEG engaged in a pattern of continuous, pervasive, and severe daily harassment intentionally occurring in the immediate presence of Plaintiff, in a direct and intentional attempt to offend, embarrass, and provoke Plaintiff, who repeatedly requested that this behavior stop.
+
+Case Number: [CGC22600093](https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600093)
 
 ### 2014-01-15
 
