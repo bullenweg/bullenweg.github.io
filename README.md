@@ -5,6 +5,7 @@
 Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable manner.
 
 * [Timeline](#timeline)
+* [Lawsuits](#lawsuits) (3)
 * [References](#references)
 * [Contribute](#contribute)
 * [Authors](#authors)
@@ -410,6 +411,14 @@ Following a many-years long dispute with author of [Thesis WordPress Theme Syste
 
 > How do we know that the ‘foundation’ isn’t going to use trademark violation as a weapon in the GPL jihad, using it as an excuse to shut down anyone promoting non-GPL code or documentation? We had a reasonable expectation that Automattic wouldn’t do that because they’re an actual legitimate business, with a board of directors and all that jazz, and the money men might have a shot at keeping Matt’s weirder impulses in check, but now nobody else gets a say in how the trademark’s used or how abuses (real or imagined) are handled. And somehow this gets spun as a great day for open source. Awesome.
 
+## Lawsuits
+
+| Date | Complaint | 
+| ---- | --------- |
+| 2024-10-02 | [WPENGINE, INC., vs. AUTOMATTIC INC.; and MATTHEW CHARLES MULLENWEG](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) | 
+| 2022-06-09 | [ASMAHAN ATTAYEB vs. MATTHEW C. MULLENWEG; KATHLEEN MULLENWEG; and AUDREY HC, LLC](/CGC-22-600093.pdf) | 
+| 2022-06-09 | [JENNIFFER L. WESTMORELAND vs. MATTHEW C. MULLENWEG; KATHLEEN MULLENWEG; and AUDREY HC, LLC](/CGC-22-600095.pdf) | 
+
 ## References
 
 ### Profiles
@@ -432,10 +441,8 @@ Following a many-years long dispute with author of [Thesis WordPress Theme Syste
 
 | Date | Name |
 |--|--|
-| 2024-10-02 | [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) |
+| 2024-10-02 | [WPENGINE, INC., vs. AUTOMATTIC INC.; and MATTHEW CHARLES MULLENWEG](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) |
 | 2024-09-23 | [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) |
-| 2022-06-09 | [CGC-22-600093](/CGC-22-600093.pdf) |
-| 2022-06-09 | [CGC-22-600095](/CGC-22-600095.pdf) |
 
 ### Summaries
 
