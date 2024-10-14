@@ -64,6 +64,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 * [2022-06-09](#2022-06-09)
   * [Lawsuit filed against Matt by his Mother's private nurse](#lawsuit-filed-against-matt-by-his-mothers-private-nurse)
+* [2018-11-13](#2018-11-13)
+  * [Veiled career threat to a woman in tech](#Veiled-career-threat-to-a-woman-in-tech)
 * [2014-01-15](#2014-01-15)
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
@@ -413,6 +415,23 @@ Matt has referenced his Mother multiple times, including her advice.
 [![image](https://github.com/user-attachments/assets/2168ffa0-d100-4791-811b-f1cb96104dc6)](https://x.com/cameronjonesweb/status/1845250873775042629)
 
 Maybe this is [another typo](#lies-about-lawyer-statements). Matt may have meant "Kill 'em with unsafe working conditions".
+
+### 2018-11-13
+
+#### Veiled career threat to a woman in tech
+
+During the Gutenberg accessibility chaos, digital accessibility practitioner Marcy Sutton, who worked for Deque at the time, said on Twitter:
+
+> I'm doing some writing on code + civil rights again; and my conclusion is I need to put my money where my mouth is and move my site away from Wordpress.
+
+Matt responded with a veiled threat, likely with the intent to cost Marcy her job or at least pressure her to retract her statement:
+
+> That's too bad was about to reach out to work with Deque on the audits.
+
+— [Matt Mullenweg, 13 November 2018](https://web.archive.org/web/20190209133707/https://twitter.com/photomatt/status/1062475366462308355) (the tweet has been deleted, but it lives in the Way Back Machine)
+
+![Tweet from Marcy: I'm doing some writing on code + civil rights again; and my conclusion is I need to put my money where my mouth is and move my site away from Wordpress.
+Unsolicited response from Matt: That's too bad was about to reach out to work with Deque on the audits.](https://github.com/user-attachments/assets/93f5a16c-ef30-4d59-be5b-669f07852c4b)
 
 ### 2014-01-15
 
