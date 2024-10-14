@@ -11,6 +11,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+* [2024-10-13](#2024-10-13)
+   * [Offers to return WP Engine's access to Advanced Custom Fields if they drop the lawsuit](#offers-to-return-wp-engines-access-to-advanced-custom-fields-if-they-drop-the-lawsuit)
 * [2024-10-12](#2024-10-12)
   * [Matt forks and hijacks Advanced Custom Fields](#matt-forks-and-hijacks-advanced-custom-fields)
   * [Matt uses @WordPress to dismiss founder of Client Portal](#matt-uses-wordpress-to-dismiss-founder-of-client-portal)
@@ -64,6 +66,13 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-13
+
+#### Offers to return WP Engine's access to Advanced Custom Fields if they drop the lawsuit
+
+> @wp_acf If WP Engine dropped its lawsuits, apologized, and got in good standing with its trademark use, you are welcome to have access to the plugin directory listing.
+ [@WordPress](https://x.com/WordPress/status/1845663751342883195)
 
 ### 2024-10-12
 
