@@ -31,6 +31,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Tweets about GraphQL](#tweets-about-graphql)
 * [2024-10-05](#2024-10-05)
   * [Announces Advanced Custom Fields security vulnerability](#announces-advanced-custom-fields-security-vulnerability)
+  * [Modifies "What’s the difference between WordPress.org and WordPress.com?" article on WordPress.org](#modifies-whats-the-difference-between-wordpressorg-and-wordpresscom-article-on-wordpressorg)
   * [Refuses to leave former Automattic employee Slack channel](#refuses-to-leave-former-automattic-employee-slack-channel)
 * [2024-10-04](#2024-10-04)
   * [Misrepresents history in “Automattic—WP Engine Term Sheet” blog post](#misrepresents-history-in-automatticwp-engine-term-sheet-blog-post)
@@ -201,6 +202,21 @@ Obviously "everyone" does not think that WPE own GraphQL because GraphQL has not
 In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) Automattic (Matt) violates responsible disclosure by announcing a vulnerability in WPEngine's ACF plugin.
 
 > Automattic's security team has responsibly disclosed a vulnerability in @wp_acf to @wpengine. As is standard, they have 30 days to issue a fix before public disclosure. We have reserved this CVE for the issue: https://www.cve.org/CVERecord?id=CVE-2024-9529
+
+#### Modifies "What’s the difference between WordPress.org and WordPress.com?" article on WordPress.org
+
+Due to long-term confusion about the difference between WordPress.org and WordPress.com, WordPress.org has an article titled "[What’s the difference between WordPress.org and WordPress.com?](https://wordpress.org/documentation/article/difference-between-wordpress-org-and-wordpress-com/)". On October 5th, a change was made to remove mention of the ambiguity.
+
+Prior to October 5th ([archive](https://web.archive.org/web/20241002174428/https://wordpress.org/documentation/article/difference-between-wordpress-org-and-wordpress-com/)):
+
+> **Why doesn’t Automattic rename WordPress.com to something more distinct?**
+> You’ll have to ask them. Likely, the downsides of a rebranding campaign would outweigh the benefits. The ambiguity certainly hasn’t been all bad. It makes it fairly clear to users that they can migrate their WordPress.com blog to a self-hosted WordPress install.
+
+Since October 5th:
+
+> **Why doesn’t Automattic rename WordPress.com to something more distinct?**
+> WordPress.com offers multi-site for free and on very inexpensive plans, has never had any downtime or lost user data since 2005, and has onboarded and introduced hundreds of millions of people to WordPress. Their higher-tier plans offer some of the fastest and most secure WordPress Managed Hosting available anywhere, with full plugin and theme support. That advanced managed platform is now licensed to other hosts through wp.cloud and is raising the bar for the industry. The flavor of WordPress offered by WordPress.com is a huge asset to the brand and adoption of WordPress overall.
+
 
 #### Refuses to leave former Automattic employee Slack channel
 
