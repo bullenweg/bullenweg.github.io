@@ -64,6 +64,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 * [2022-06-09](#2022-06-09)
   * [Lawsuit filed against Matt by his Mother's private nurse](#lawsuit-filed-against-matt-by-his-mothers-private-nurse)
+* [2017-06-13](#2017-06-13)
+  * [Walks back committment to WCAG and accessibility](#Walks-back-committment-to-WCAG-and-accessibility)
 * [2014-01-15](#2014-01-15)
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
@@ -413,6 +415,17 @@ Matt has referenced his Mother multiple times, including her advice.
 [![image](https://github.com/user-attachments/assets/2168ffa0-d100-4791-811b-f1cb96104dc6)](https://x.com/cameronjonesweb/status/1845250873775042629)
 
 Maybe this is [another typo](#lies-about-lawyer-statements). Matt may have meant "Kill 'em with unsafe working conditions".
+
+### 2017-06-13
+
+#### Walks back committment to WCAG and accessibility
+
+In 2016, [Wordpress committed to making all new code Core meet WCAG 2.0](https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/) at Level AA. WCAG (Web Content Accessibility Guidelines) are the W3C digital accessibility standards referenced by many laws and corporate purchasing requirements. Matt walked that commitment back in a single interview, paving the way for Gutenberg, the new block editor, to ignore a WordPress promise.
+
+> We, for often very good reasons, do things like say WordPress is WCAT [sic] compliant and no new code should come in that is not. That’s a tradeoff, and that’s a tradeoff that we’ve enshrined. We should readdress it if we think that that tradeoff, whether for a particular feature, a particular user experience, or a particular benefit, is worth it.
+
+— [Episode 81: Matt Mullenweg – #WorthIt](http://applyfilters.fm/podcast/episode-81/) at Apply Filters.
+
 
 ### 2014-01-15
 
