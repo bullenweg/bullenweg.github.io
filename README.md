@@ -48,6 +48,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Misrepresents WordPress.org financing](#misrepresents-wordpressorg-financing)
 * [2024-09-29](#2024-09-29)
   * [Appears on Theo - t3․gg's YouTube channel for The WordPress Interview](#appears-on-theo---t3ggs-youtube-channel-for-the-wordpress-interview)
+  * [Threatens career of WP Engine's CEO Heather Brunner](#threatens-career-of-wp-engines-ceo-heather-brunner)
 * [2024-09-28](#2024-09-28)
   * [Lies about motivation for dispute with WP Engine](#lies-about-motivation-for-dispute-with-wp-engine)
 * [2024-09-26](#2024-09-26)
@@ -296,6 +297,24 @@ Later admits Automattic finances WordPress.org.
 #### Appears on Theo - t3․gg's YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU)
 
 [![The Wordpress Drama Interview (this got cited in a lawsuit lol)](https://i.ytimg.com/vi/OUJgahHjAKU/mqdefault.jpg)](https://www.youtube.com/watch?v=OUJgahHjAKU)
+
+#### Threatens career of WP Engine's CEO Heather Brunner
+
+In a text message to CEO of WP Engine, Heather Brunner, Matt threatens to reveal (false) information about Heather to the press.
+
+> Heather, after our extensive discussions about you joining Automattic, the offer you negotiated with me is still on the table.
+>
+> * You can join Automattic and match all of your compensation economics, as we discussed in January.
+> * I will extend that matching to anyone from WPE who wants to follow you. (You said you wanted to do right by your team; this addresses it.)
+>
+> Let me know by midnight PT if you decline or accept this offer.
+>
+> If you decline, on Monday morning, I tell Greg Mondres *[CEO of Silver Lake]*:
+> * Lee's refusal to negotiate terms to resolve our conflict.
+> * Your interviewing with Automattic over the past year.
+> * I will possibly tell the press all of the above.
+
+Via point 90 (page 32) of [WPENGINE, INC., vs. AUTOMATTIC INC.; and MATTHEW CHARLES MULLENWEG](#references).
 
 ### 2024-09-28
 
