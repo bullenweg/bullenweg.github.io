@@ -83,7 +83,7 @@ Matt once again repeats the lie that *this* is about the trademark (See: [Lies a
 
 And tries to leverage his philanthropy:
 
-> David, perhaps instead of spending $2M on a race car, you should do some philanthropy.
+> David, perhaps instead of spending [$2M on a race car](https://www.autoblog.com/news/pagani-zonda-hh-commissioner-revealed-as-30-year-old-chicago-sof), you should do some [philanthropy](https://ma.tt/2024/09/charitable-contributions/).
 
 Matt, perhaps instead of spending $100k on [acquiring a domain to spite someone](#acquires-thesiscom-to-spite-wordpress-theme-developer), you should [pay your Mother's nurses for having to listen to your Mother talk about your sex life](#lawsuit-filed-against-matt-by-his-mothers-private-nurse).
 
