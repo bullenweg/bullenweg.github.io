@@ -4,6 +4,8 @@
 
 Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable manner.
 
+{:toc}
+
 * [Timeline](#timeline)
 * [References](#references)
 * [Contribute](#contribute)
