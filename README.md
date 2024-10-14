@@ -427,3 +427,5 @@ Email `admin@bullenweg.com` to submit information anonymously.
 ## Authors
 
 Bullenweg.com is not associated with Automattic, WP Engine, Silver Lake or Matthew Charles Mullenweg.
+
+> It actually is an excellent website ~[Matt Mullenweg, October 12th 2024](https://news.ycombinator.com/item?id=41821837)
