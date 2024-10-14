@@ -380,6 +380,12 @@ A second lawsuit (Case Number: [CGC22600095](https://webapps.sftc.org/ci/CaseInf
 >
 > •34. In addition to the racism, Kathleen Mullenweg engaged in a pattern of continuous, pervasive, and severe daily sexual banter which occurred directly in Plaintiff's presence in her immediate work environment. In addition to the racism, the workplace was permeated with sexually-charged harassment which embarrassed, humiliated, and offended Plaintiff. For example, Kathleen Mullenweg would discuss in graphic detail the sex between defendant MULLENWEG and his Asian girlfriends even though Plaintiff begged her not to discuss such private matters. Kathleen Mullenweg at one point asked Plaintiffto spy on her son having sex with his girlfriends. She also asked Plaintiff to check the trash cans to search for condoms. Plaintiff made numerous complaints directly to Defendant MATTHEW MVLLENWEG, AUDREY and to MULLENWEG's mother regarding the severity of Kathleen Mullenweg's racism and sexually charged non-stop rants, and the discomfort it was causing her, however Defendants did absolutely nothing to prevent it from occurring. In fact, to the contrary, Defendant MULLENWEG would share Plaintiffs complaints with his mother who would then retaliate against Plaintiff and threaten her with termination if she ever complained about her harassment to her son again.
 
+Matt has referenced his Mother multiple times, including her advice.
+
+[![image](https://github.com/user-attachments/assets/2168ffa0-d100-4791-811b-f1cb96104dc6)](https://x.com/cameronjonesweb/status/1845250873775042629)
+
+Maybe this is [another typo](#lies-about-lawyer-statements). Matt may have meant "Kill 'em with unsafe working conditions".
+
 ### 2014-01-15
 
 #### Acquires thesis.com to spite WordPress theme developer
