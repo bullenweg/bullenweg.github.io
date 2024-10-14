@@ -12,6 +12,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+* [2024-10-14](#2024-10-14)
+  * [Responds to DHH](#responds-to-dhh)
 * [2024-10-13](#2024-10-13)
    * [Offers to return WP Engine's access to Advanced Custom Fields if they drop the lawsuit](#offers-to-return-wp-engines-access-to-advanced-custom-fields-if-they-drop-the-lawsuit)
 * [2024-10-12](#2024-10-12)
@@ -68,6 +70,22 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-14
+
+#### Responds to DHH
+
+> David, perhaps it would be good to explore with a therapist or coach why you keep having these great ideas but cannot scale them beyond a handful of niche customers. I will give full credit and respect. 37signals inspired tons of what Automattic does! We’re now half a billion in revenue. Why are you still so small? ~[Response to DHH on ma.tt](https://ma.tt/2024/10/on-dhh/).
+
+Matt once again repeats the lie that *this* is about the trademark (See: [Lies about what this is all about, again](#lies-about-what-this-is-all-about-again)).
+
+> We have no problem with their use of GPL code, our beef is with their trademark abuse.
+
+And tries to leverage his philanthropy:
+
+> David, perhaps instead of spending $2M on a race car, you should do some philanthropy.
+
+Matt, perhaps instead of spending $100k on [acquiring a domain to spite someone](#acquires-thesiscom-to-spite-wordpress-theme-developer), you should [pay your Mother's nurses for having to listen to your Mother talk about your sex life](#lawsuit-filed-against-matt-by-his-mothers-private-nurse).
 
 ### 2024-10-13
 
