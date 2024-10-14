@@ -378,9 +378,9 @@ A private nurse alleges Matt violated labor law, contributed to a hostile work e
 >
 >  •33. In addition to the racist rants and harassment about wearing a head scarfthat Plaintiff was subjected to, Defendant KATHLEEN MULLENWEG also created a hostile, and sexually charged environment by repeatedly discussing Defendant MATTHEW MULLENWEG's sex life in graphic detail. KATHLEEN MULLENWEG would discuss Defendant MATTHEW MULLENWEG's attraction to Asian women, and how Asian women were all "whores" and "sluts" and "prostitutes." She also discussed that Defendant MATTHEW MULLENWEG would engage in threesomes with his girlfriends, that Defendant MULLENWEG was easily seduced by the Asian women, that the Asian women would poke holes in condoms in an attempt to set him up for  marriage. Defendant KATHLEEN MULLENWEG would discuss how her son would sleep with multiple women at the same time, and other graphic details about Defendant Matthew MULLENWEG's sex life, Defendant KATHLEEN MULLENWEG engaged in a pattern of continuous, pervasive, and severe daily harassment intentionally occurring in the immediate presence of Plaintiff, in a direct and intentional attempt to offend, embarrass, and provoke Plaintiff, who repeatedly requested that this behavior stop.
 
-Case Number: [CGC22600093](https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600093). 
+Case Number: [CGC22600093](https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600093) ([complaint](/CGC-22-600093.pdf)). 
 
-A second lawsuit (Case Number: [CGC22600095](https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600095&SessionID=765C91BE1912E3F9840F687F7D897871E1F17BB2)) makes similar allegations.
+A second lawsuit (Case Number: [CGC22600095](https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600095) ([complaint](/CGC-22-600095.pdf)) makes similar allegations.
 
 > •27. Defendant MULLENWEG held himself out to be the boss, owner, HR Director, policy maker, and individual in control of every aspect of Plaintiffs employment. Plaintiff felt she had no one to protect her from the abuse, the excessive demand to work months without a day off, and she lacked the resources to escape the situation she found herself in.
 >
@@ -434,6 +434,8 @@ Following a many-years long dispute with author of [Thesis WordPress Theme Syste
 |--|--|
 | 2024-10-02 | [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) |
 | 2024-09-23 | [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) |
+| 2022-06-09 | [CGC-22-600093](/CGC-22-600093.pdf) |
+| 2022-06-09 | [CGC-22-600095](/CGC-22-600095.pdf) |
 
 ### Summaries
 
