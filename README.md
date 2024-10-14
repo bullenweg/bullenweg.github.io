@@ -380,7 +380,7 @@ A private nurse alleges Matt violated labor law, contributed to a hostile work e
 
 Case Number: [CGC22600093](https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600093) ([complaint](/CGC-22-600093.pdf)). 
 
-A second lawsuit (Case Number: [CGC22600095](https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600095) ([complaint](/CGC-22-600095.pdf)) makes similar allegations.
+A second lawsuit (Case Number: [CGC22600095](https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC22600095) ([complaint](/CGC-22-600095.pdf))) makes similar allegations.
 
 > •27. Defendant MULLENWEG held himself out to be the boss, owner, HR Director, policy maker, and individual in control of every aspect of Plaintiffs employment. Plaintiff felt she had no one to protect her from the abuse, the excessive demand to work months without a day off, and she lacked the resources to escape the situation she found herself in.
 >
