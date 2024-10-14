@@ -71,8 +71,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 #### Offers to return WP Engine's access to Advanced Custom Fields if they drop the lawsuit
 
-> @wp_acf If WP Engine dropped its lawsuits, apologized, and got in good standing with its trademark use, you are welcome to have access to the plugin directory listing.
- [@WordPress](https://x.com/WordPress/status/1845663751342883195)
+> @wp_acf If WP Engine dropped its lawsuits, apologized, and got in good standing with its trademark use, you are welcome to have access to the plugin directory listing. ~[@WordPress](https://x.com/WordPress/status/1845663751342883195)
 
 ### 2024-10-12
 
