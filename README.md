@@ -20,6 +20,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Matt forks and hijacks Advanced Custom Fields](#matt-forks-and-hijacks-advanced-custom-fields)
   * [Matt uses @WordPress to dismiss founder of Client Portal](#matt-uses-wordpress-to-dismiss-founder-of-client-portal)
 * [2024-10-11](#2024-10-11)
+  * [Matt uses @WordPress to tell Jason Cohen (Founder of WPE) that he acts like "nothing is going on". He askes if he endorces the attack against us.](#matt-uses-wordpress-to-ask-Jason-Cohen-questions)
   * [Matt uses @WordPress to retweet Automattic vs. WP Engine poll](#matt-uses-wordpress-to-retweet-automattic-vs-wp-engine-poll)
   * [Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core](#rumors-swirl-that-matt-plans-to-bring-wp-engine-owned-advanced-custom-fields-into-wordpress-core)
   * [Matt's nose bleeds unacknowledged during podcast](#matts-nose-bleeds-unacknowledged-during-podcast)
@@ -120,6 +121,10 @@ Matt responds:
 > Sorry, who are you? ~[@WordPress](https://x.com/WordPress/status/1845121130207535524)
 
 ### 2024-10-11
+
+#### Matt Uses Wordpress To Ask Jason Cohen questions
+
+> You're tweeting like nothing is going on. Do you endorse the attacks by @wpengine against us, @automattic, and @photomatt? ~[@WordPress](https://x.com/WordPress/status/1844801453572948241)
 
 #### Rumors swirl that Matt plans to bring WP Engine-owned Advanced Custom Fields into WordPress Core
 
