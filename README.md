@@ -99,6 +99,10 @@ Matt modified "Response to DHH" to remove the quoted paragraph, luckily [it is a
 
 Matt deletes "Response to DHH". Perhaps the tide is turning. Has Matt come to his senses? Has he finally [taken some Tylenol](#identifies-godaddy-as-an-existential-threat-to-wps-future)?
 
+The error page makes a good point.
+
+> This is somewhat embarrassing, isn’t it?
+
 ### 2024-10-13
 
 #### Offers to return WP Engine's access to Advanced Custom Fields if they drop the lawsuit
