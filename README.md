@@ -12,6 +12,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ## Timeline
 
+* [2024-10-15](#2024-10-15)
+  * [Addresses "Those Other Lawsuits"](#addresses-those-other-lawsuits)
 * [2024-10-14](#2024-10-14)
   * [Responds to DHH](#responds-to-dhh)
 * [2024-10-13](#2024-10-13)
@@ -74,6 +76,20 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-15
+
+#### Addresses "Those Other Lawsuits"
+
+Matt publishes "[Those Other Lawsuits](https://ma.tt/2024/10/other-lawsuits/)".
+
+> In 2022, a lawyer recruited two people who took care of my Mom—an assistant and one of her dozen nurses—to resign and demand a million dollars each, or they would publish horrible things about her in a lawsuit. I refused. The lawsuits were filed. Luckily, the accusations are so sick, twisted, and outrageous that they refute themselves. There’s some weird sex stuff, and also claims that my Mom is racist. I am sad for whatever mind could even imagine such things.
+
+Matt begins by suggesting an origin story that does not stand up, a lawyer does not recruit employees to sue their employer. The lawyer involved in these lawsuits, Susan Rubenstein, is a reputable employment lawyer responsible for jury-supported cases, such as "[Marriott must pay $20 million for avoiding disabled concierge’s accommodation pleas](https://www.kark.com/business/press-releases/ein-presswire/657215286/jury-marriott-must-pay-20-million-for-avoiding-disabled-concierges-accommodation-pleas/)".
+
+> Even if it’s messy, fight the claims in court as I am doing. It’s the only way to deter people trying to make a quick buck. These cases are common, and the media is used to them.
+
+Matt made every effort to **not** fight the claims in court, Matt attempted to force the cases into arbitration.
 
 ### 2024-10-14
 
