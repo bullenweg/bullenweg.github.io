@@ -103,6 +103,14 @@ The error page makes a good point.
 
 > This is somewhat embarrassing, isn’t it?
 
+#### 18 hours later
+
+Matt replaces the post with a weak apology to DHH.
+
+> I’ve taken this post down. I’ve been attacked so much the past few days; the most vicious, personal, hateful words poisoned my brain, and the original version of this post was mean. I am so sorry. I shouldn’t let this stuff get to me, but it clearly did, and I took it out on DHH, who, while I disagree with him on several points, isn’t the actual villain in this story: it’s WP Engine and Silver Lake.
+
+1 apology down, 99 to go.
+
 ### 2024-10-13
 
 #### Offers to return WP Engine's access to Advanced Custom Fields if they drop the lawsuit
