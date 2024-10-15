@@ -89,7 +89,7 @@ Matt, perhaps instead of spending $100k on [acquiring a domain to spite someone]
 
 ##### 6 hours later
 
-Matt modified "Response to DHH" to remove the paragraph, luckily [it is archived](https://archive.ph/7ZRbY).
+Matt modified "Response to DHH" to remove the quoted paragraph, luckily [it is archived](https://archive.ph/7ZRbY).
 
 ### 2024-10-13
 
