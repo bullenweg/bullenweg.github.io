@@ -75,7 +75,7 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 #### Responds to DHH
 
-> David, perhaps it would be good to explore with a therapist or coach why you keep having these great ideas but cannot scale them beyond a handful of niche customers. I will give full credit and respect. 37signals inspired tons of what Automattic does! We’re now half a billion in revenue. Why are you still so small? ~[Response to DHH on ma.tt](https://ma.tt/2024/10/on-dhh/).
+> David, perhaps it would be good to explore with a therapist or coach why you keep having these great ideas but cannot scale them beyond a handful of niche customers. I will give full credit and respect. 37signals inspired tons of what Automattic does! We’re now half a billion in revenue. Why are you still so small? ~[Response to DHH on ma.tt](https://ma.tt/2024/10/on-dhh/) ([archive](https://archive.ph/7ZRbY)).
 
 Matt once again repeats the lie that *this* is about the trademark (See: [Lies about what this is all about, again](#lies-about-what-this-is-all-about-again)).
 
@@ -86,6 +86,10 @@ And tries to leverage his philanthropy:
 > David, perhaps instead of spending [$2M on a race car](https://www.autoblog.com/news/pagani-zonda-hh-commissioner-revealed-as-30-year-old-chicago-sof), you should do some [philanthropy](https://ma.tt/2024/09/charitable-contributions/).
 
 Matt, perhaps instead of spending $100k on [acquiring a domain to spite someone](#acquires-thesiscom-to-spite-wordpress-theme-developer), you should [pay your Mother's nurses for having to listen to your Mother talk about your sex life](#lawsuit-filed-against-matt-by-his-mothers-private-nurse).
+
+##### 6 hours later
+
+Matt modified "Response to DHH" to remove the paragraph, luckily [it is archived](https://archive.ph/7ZRbY).
 
 ### 2024-10-13
 
