@@ -66,6 +66,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 * [2022-06-09](#2022-06-09)
   * [Lawsuit filed against Matt by his Mother's private nurse](#lawsuit-filed-against-matt-by-his-mothers-private-nurse)
+* [2022-06-22](#2022-06-22)
+  * [Identifies GoDaddy as an "existential threat to WP's future"](#identifies-godaddy-as-an-existential-threat-to-wps-future)
 * [2014-01-15](#2014-01-15)
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
@@ -409,6 +411,18 @@ Automattic themselves disable a wide variety of features in their paid products,
 > Compare the Five For the Future pages from Automattic and WP Engine, two companies that are roughly the same size with revenue in the ballpark of half a billion.
 
 Matt implies Five For the Future is the only way to contribute to the WordPress ecosystem. Five For the Future counts direct contributions to the Matt-owned WordPress project, not the wider ecosystem. WP Engine contribute [Faust.js](https://faustjs.org/), sponsor [WPGraphQL](https://www.wpgraphql.com/) and develop [Local](https://localwp.com/) and [Advanced Custom Fields](https://www.advancedcustomfields.com/).
+
+### 2022-06-22
+
+#### Identifies GoDaddy as an "existential threat to WP's future"
+
+Days after being sued for subjecting his Mother's nurses to tales of Matt's thirst for Asian women, Matt makes similar accusations to those he has since made against WP Engine. Contemporaneously covered by WP Tavern in [Matt Mullenweg Identifies GoDaddy as a “Parasitic Company” and an “Existential Threat to WordPress’ Future”](https://wptavern.com/matt-mullenweg-identifies-godaddy-as-a-parasitic-company-and-an-existential-threat-to-wordpress-future).
+
+Matt subsequently deleted the tweets, and then blamed the tweets on a fever.
+
+> Okay no more tweeting while I have a fever, I'm going to have some @brodoNYC and rest. Sorry for the commotion. ~[@photomatt](https://twitter.com/photomatt/status/1540132508741709826)
+
+Maybe WP Engine just need to send Matt some Tylenol, instead of 8% of their revenue.
 
 ### 2022-06-09
 
