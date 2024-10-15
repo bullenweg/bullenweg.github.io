@@ -2,7 +2,7 @@
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/bullenweg/bullenweg.github.io)](https://github.com/bullenweg/bullenweg.github.io) [![GitHub last commit](https://img.shields.io/github/last-commit/bullenweg/bullenweg.github.io)](https://github.com/bullenweg/bullenweg.github.io)
 
-Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable manner (or had a nosebleed).
+Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable manner or had a nosebleed.
 
 * [Timeline](#timeline)
 * [Lawsuits](#lawsuits) (3)
