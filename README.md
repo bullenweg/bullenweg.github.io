@@ -95,7 +95,7 @@ Matt, perhaps instead of spending $100k on [acquiring a domain to spite someone]
 
 Matt modified "Response to DHH" to remove the quoted paragraph, luckily [it is archived](https://archive.ph/7ZRbY).
 
-#### 12 hours later
+##### 12 hours later
 
 Matt deletes "Response to DHH". Perhaps the tide is turning. Has Matt come to his senses? Has he finally [taken some Tylenol](#identifies-godaddy-as-an-existential-threat-to-wps-future)?
 
@@ -103,7 +103,7 @@ The error page makes a good point.
 
 > This is somewhat embarrassing, isn’t it?
 
-#### 18 hours later
+##### 18 hours later
 
 Matt replaces the post with a weak apology to DHH.
 
