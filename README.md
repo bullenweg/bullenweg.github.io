@@ -64,6 +64,8 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 ...
 
+* [2024-02-22](#2024-02-22)
+  * [Argues with trans Tumblr user and reveals their private accounts](#argues-with-trans-tumblr-user-and-reveals-their-private-accounts)
 * [2022-06-09](#2022-06-09)
   * [Lawsuit filed against Matt by his Mother's private nurse](#lawsuit-filed-against-matt-by-his-mothers-private-nurse)
 * [2022-06-22](#2022-06-22)
@@ -411,6 +413,18 @@ Automattic themselves disable a wide variety of features in their paid products,
 > Compare the Five For the Future pages from Automattic and WP Engine, two companies that are roughly the same size with revenue in the ballpark of half a billion.
 
 Matt implies Five For the Future is the only way to contribute to the WordPress ecosystem. Five For the Future counts direct contributions to the Matt-owned WordPress project, not the wider ecosystem. WP Engine contribute [Faust.js](https://faustjs.org/), sponsor [WPGraphQL](https://www.wpgraphql.com/) and develop [Local](https://localwp.com/) and [Advanced Custom Fields](https://www.advancedcustomfields.com/).
+
+### 2024-02-22
+
+#### Argues with trans Tumblr user and reveals their private accounts
+
+Via TechCrunch, [Tumblr CEO publicly spars with trans user over account ban, revealing private account names in the process](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/):
+
+> Over the last few days, the situation escalated to the point that Mullenweg has engaged with the user in question on other platforms and shared private details about her account in public.
+
+Matt responded to accusations of Transphobia in [My Beliefs and Principles](https://www.tumblr.com/photomatt/742964297818390528/my-beliefs-and-principles), once again wheeling out [his "private" philanthropy](#publishes-charitable-contributions-on-matt) as a shield for criticism.
+
+> I've personally donated to LGBT+ organizations as far back as 2016, and more recently have donated mid five figures to Human Rights organizations.
 
 ### 2022-06-22
 
