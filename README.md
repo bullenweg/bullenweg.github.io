@@ -82,15 +82,19 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 #### Addresses "Those Other Lawsuits"
 
-Matt publishes "[Those Other Lawsuits](https://ma.tt/2024/10/other-lawsuits/)".
+Matt publishes "[Those Other Lawsuits](https://ma.tt/2024/10/other-lawsuits/)" (see: [Lawsuit filed against Matt by his Mother’s private nurse](#lawsuit-filed-against-matt-by-his-mothers-private-nurse)).
 
 > In 2022, a lawyer recruited two people who took care of my Mom—an assistant and one of her dozen nurses—to resign and demand a million dollars each, or they would publish horrible things about her in a lawsuit. I refused. The lawsuits were filed. Luckily, the accusations are so sick, twisted, and outrageous that they refute themselves. There’s some weird sex stuff, and also claims that my Mom is racist. I am sad for whatever mind could even imagine such things.
 
 Matt begins by suggesting an origin story that does not stand up, a lawyer does not recruit employees to sue their employer. The lawyer involved in these lawsuits, Susan Rubenstein, is a reputable employment lawyer responsible for jury-supported cases, such as "[Marriott must pay $20 million for avoiding disabled concierge’s accommodation pleas](https://www.kark.com/business/press-releases/ein-presswire/657215286/jury-marriott-must-pay-20-million-for-avoiding-disabled-concierges-accommodation-pleas/)".
 
-> Even if it’s messy, fight the claims in court as I am doing. It’s the only way to deter people trying to make a quick buck. These cases are common, and the media is used to them.
+Matt goes on to claim that the accusations refute themselves. Yet, rather than refute, one of Matt's former employees corroborates the allegations. From "DECLARATION OF JANE WEBER IN SUPPORT OF PLAINTIFFS’ OPPOSITION TO DEFENDANTS” MOTION TO COMPEL ARBITRATION IN LIEU OF FILING ANSWERS":
 
-Matt made every effort to **not** fight the claims in court, Matt attempted to force the cases into arbitration.
+> I worked for Defendants Matthew Mullenweg and Audrey HC. LLC as the Director of Estate Operations.
+> [...]
+> Defendant Mullenweg was considered the “boss” for all intents and purposes, however there were many day-to-day matters that never reached his desk. For instance, he rarely assisted in onboarding; the statements in his declaration are highly exaggerated. He did have the final say regarding policies for his company, many of which were unlawful, including his decision to completely ignore California wage and hour laws, and his decision to allow the hostile work environment to continue when he could have taken steps to prevent the harassment from occurring. Several employees complained about the hostile work environment; I advised him on more than one occasion that he was legally bound to correct it, however he ignored my advice.
+> [...]
+> During the course of my employment with Defendants Mullenweg and Audrey HC, LLC, both Asmahan Attayeb and Jenniffer Westmoreland reported to me. I am aware from each woman, that an abusive and offensive and discriminatory hostile work environment occurred on a routine basis which disrupted the workplace for many of the employees who oftentimes would quit. I know that each of these women, Ms. Attayeb and Ms. Westmoreland, tried to make the best of the circumstances until they could not take it anymore. I know that at or near the time I left the company in early March, the harassment was continuing and in fact, escalated once these women and others complained about the conduct to Defendant Mullenweg. 
 
 ### 2024-10-14
 
