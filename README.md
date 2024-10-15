@@ -546,7 +546,7 @@ Following a many-years long dispute with author of [Thesis WordPress Theme Syste
 | 2024-10-02 | [WPENGINE, INC., vs. AUTOMATTIC INC.; and MATTHEW CHARLES MULLENWEG](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) |
 | 2024-09-23 | [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) |
 
-## Alternative Sources
+## Alternative Websites
 
 * [Automattic と WP Engine の闘争](https://blog.in-the.blue/archives/2936/automattic-%e3%81%a8-wp-engine-%e3%81%ae%e9%97%98%e4%ba%89/)
 * [The Mullenweg/WPE Thing by @adrienne](https://gist.github.com/adrienne/aea9dd7ca19c8985157d9c42f7fc225d)
