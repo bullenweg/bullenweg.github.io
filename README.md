@@ -14,6 +14,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 ## Timeline
 
 * [2024-10-15](#2024-10-15)
+  * [Lawyer in "Those Other Lawsuits" responds](#lawyer-in-those-other-lawsuits-responds)
   * [Addresses "Those Other Lawsuits"](#addresses-those-other-lawsuits)
 * [2024-10-14](#2024-10-14)
   * [Responds to DHH](#responds-to-dhh)
@@ -79,6 +80,12 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
 
 ### 2024-10-15
+
+#### Lawyer in "Those Other Lawsuits" responds
+
+Susan Rubenstein, attorney representing the nurses in "Those Other Lawsuits", addresses Matt's response.
+
+> While I would like to respond in detail to the false and self-serving statements made by Mr. Mullenweg,  I believe that it is the better practice to not comment on a case that is in active litigation. Because his comments were made online, I do feel compelled to state that I stand by all the allegations set forth in the Complaints filed on behalf of each of these women. I do not file spurious complaints, nor do I "recruit" clients. The complaints were not sent to the press, nor are any of the allegations contained therein exaggerated. Last, Mr. Mullenweg's claim that he was told by me that unless he paid a specific sum of money, the Complaints would be filed, is also false.
 
 #### Addresses "Those Other Lawsuits"
 
