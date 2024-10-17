@@ -13,6 +13,8 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 ## Timeline
 
+* [2024-10-16](#2024-10-16)
+ * [Offers new exploding alignment offer](#offers-new-exploding-alignment-offer)
 * [2024-10-15](#2024-10-15)
   * [Lawyer in "Those Other Lawsuits" responds](#lawyer-in-those-other-lawsuits-responds)
   * [Addresses "Those Other Lawsuits"](#addresses-those-other-lawsuits)
@@ -78,6 +80,18 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-16
+
+#### Offers new exploding alignment offer
+
+Note: `admin@bullenweg.com` has received a purported copy of the latest alignment offer. At the time of writing, no independent confirmation of its integrity has been provided. This warning will be removed once independent confirmation is provided.
+
+> New alignment offer: I guess some people were sad they missed the last window. Some have been leaking to the press and ex-employees. That's water under the bridge. Maybe the last offer needed to be higher. People have said they want a new window, so this is my attempt.
+> 
+> Here's a new one: You have until 00:00 UTC Oct 17 (~4 hours) to DM me the words "I resign and would like to take the 9-month buy-out offer." You don't have to say any reason, or anything else. I will reply "Thank you." Automattic will accept your resignation, you can keep you office stuff and work laptop; you will lose access to Automattic and W.org (no slack, user accounts, etc). HR will be in touch to wrap up details in the coming days, including your 9 months of compensation, they have a lot on their plates right now. You have my word this deal will be honored. We will try to keep this quiet, so it won't be used against us, but I still wanted to give Automatticians another window.
+
+Automattic is a remote, global company. Offering employees across every timezone just 4 hours to decide is ridiculous. 
 
 ### 2024-10-15
 
