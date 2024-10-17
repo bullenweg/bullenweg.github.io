@@ -15,6 +15,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 * [2024-10-17](#2024-10-17)
   * [Matt uses WordPress news feed to feed his bottom line](#matt-uses-wordpress-news-feed-to-feed-his-bottom-line)
+  * [Matt tweets from @WordPress about his own hosts supporting his own website](#matt-tweets-from-wordpress-about-his-own-hosts-supporting-his-own-website)
 * [2024-10-16](#2024-10-16)
   * [Offers new exploding alignment offer](#offers-new-exploding-alignment-offer)
 * [2024-10-15](#2024-10-15)
@@ -96,6 +97,19 @@ The hosts listed are BlueHost (owned by Newfold, which resells Automattic's host
 > WordPress.com will give you a free year of any plan they offer, and donate 5% of your purchase price to the WordPress Foundation.
 
 The WordPress Foundation has zero involvement in the development of WordPress and zero involvement in the hosting of WordPress.org; WordPress.com's donation to the WordPress Foundation is Matt shuffling money from one of his pockets to another of his pockets. Once again, Matt demonstrates the nature of Automattic's investment in WordPress is far from altruistic.
+
+#### Matt tweets from @WordPress about his own hosts supporting his own website
+
+Joost de Valk [Tweets](https://x.com/jdevalk/status/1846849945132761496):
+
+> People in the WordPress world realize that: hosts are slowly "cutting loose" from w .org.
+
+Matt [responds from @WordPress](https://x.com/WordPress/status/1846937344990949834), referencing his own tweet, which contains only references to Automattic-powered services, to evidence the claim that "hosts" are consolidating behind WordPress.org.
+
+> Really? Looks like hosts are consolidating behind .org:
+> > Given the horrible legal attacks by @wpengine against us, a number of hosts including @bluehost, @Pressable, @wordpressdotcom, and @WordPressVIP are offering great promotions for customers who want a host who isn't suing @WordPress.
+
+Did Matt forget that we know Matt is @WordPress and @Pressable and @wordpressdotcom and @WordPressVIP and that @bluehost is powered by Matt's WordPress cloud service?
 
 ### 2024-10-16
 
