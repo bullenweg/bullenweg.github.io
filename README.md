@@ -14,7 +14,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 ## Timeline
 
 * [2024-10-16](#2024-10-16)
- * [Offers new exploding alignment offer](#offers-new-exploding-alignment-offer)
+  * [Offers new exploding alignment offer](#offers-new-exploding-alignment-offer)
 * [2024-10-15](#2024-10-15)
   * [Lawyer in "Those Other Lawsuits" responds](#lawyer-in-those-other-lawsuits-responds)
   * [Addresses "Those Other Lawsuits"](#addresses-those-other-lawsuits)
