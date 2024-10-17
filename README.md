@@ -87,7 +87,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 #### Matt uses WordPress news feed to feed his bottom line
 
-News articles posted on WordPress.org are syndicated to the admin panel of every WordPress install. Matt, referring to himself in the third-person, posts "WP Engine Promotions" to WordPress.org.
+News articles posted on WordPress.org are syndicated to the admin panel of every WordPress install. Matt, referring to himself in the third-person, posts "[WP Engine Promotions](https://wordpress.org/news/2024/10/wp-engine-promotions/)" to WordPress.org  ([archive](https://archive.ph/IRmb7)).
 
 > Given the egregious legal attacks by WP Engine against WordPress co-founder Matt Mullenweg, a number of their customers have been looking for alternative hosting, and in return a number of hosts have created specials and promotions for WP Engine customers looking to migrate to a host that has great relations with WordPress.org. Here they are, in alphabetical order.
 
