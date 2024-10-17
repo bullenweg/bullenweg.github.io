@@ -95,7 +95,7 @@ The hosts listed are BlueHost (owned by Newfold, which resells Automattic's host
 
 > WordPress.com will give you a free year of any plan they offer, and donate 5% of your purchase price to the WordPress Foundation.
 
-The WordPress Foundation has zero involvement in the development of WordPress and zero involvement in the hosting of WordPress.org; WordPress.com's donation to the WordPress Foundation is Matt shuffling money from one of his pockets to another of his pockets.
+The WordPress Foundation has zero involvement in the development of WordPress and zero involvement in the hosting of WordPress.org; WordPress.com's donation to the WordPress Foundation is Matt shuffling money from one of his pockets to another of his pockets. Once again, Matt demonstrates the nature of Automattic's investment in WordPress is far from altruistic.
 
 ### 2024-10-16
 
