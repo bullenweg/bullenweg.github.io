@@ -13,6 +13,8 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 ## Timeline
 
+* [2024-10-17](#2024-10-17)
+  * [Matt uses WordPress news feed to feed his bottom line](#matt-uses-wordpress-news-feed-to-feed-his-bottom-line)
 * [2024-10-16](#2024-10-16)
   * [Offers new exploding alignment offer](#offers-new-exploding-alignment-offer)
 * [2024-10-15](#2024-10-15)
@@ -80,6 +82,20 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-17
+
+#### Matt uses WordPress news feed to feed his bottom line
+
+News articles posted on WordPress.org are syndicated to the admin panel of every WordPress install. Matt, referring to himself in the third-person, posts "WP Engine Promotions" to WordPress.org.
+
+> Given the egregious legal attacks by WP Engine against WordPress co-founder Matt Mullenweg, a number of their customers have been looking for alternative hosting, and in return a number of hosts have created specials and promotions for WP Engine customers looking to migrate to a host that has great relations with WordPress.org. Here they are, in alphabetical order.
+
+The hosts listed are BlueHost (owned by Newfold, which resells Automattic's hosted WordPress service), Pressable (owned by Automattic), WordPress.com (owned by Automattic) and WordPress VIP (owned by Automattic). 
+
+> WordPress.com will give you a free year of any plan they offer, and donate 5% of your purchase price to the WordPress Foundation.
+
+The WordPress Foundation has zero involvement in the development of WordPress and zero involvement in the hosting of WordPress.org; WordPress.com's donation to the WordPress Foundation is Matt shuffling money from one of his pockets to another of his pockets.
 
 ### 2024-10-16
 
