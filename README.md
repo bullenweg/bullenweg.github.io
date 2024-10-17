@@ -123,6 +123,27 @@ Note: `admin@bullenweg.com` has received a purported copy of the latest alignmen
 
 Automattic is a remote, global company. Offering employees across every timezone just 4 hours to decide in the middle of the night is ridiculous. The deadline is presumably short in order to minimize the number of people who see it in time to accept it.
 
+Matt later offered further information regarding the offer:
+
+> This is designed specifically for whoever the leaker is.
+
+Matt threatens a "big legal case" against "the leaker":
+
+> We have technical means to identify the leaker as well, that I obviously can't disclose. So this is their opportunity to exit gracefully, or be fired tomorrow with no severance and probably a big legal case for violating confidentiality agreement.
+>
+> I wouldn't recommend this deal if you're not the leaker, but it is open to everyone.
+>
+> I apologize for the drama. I just got off a call with the person in question. They took the offer. We're honoring it.
+
+Regarding granting more time to decide for people in different timezones:
+
+> Your best option for your family is decades of employment with Automattic with awesome raises as we streamline our products and businesses.
+
+Regarding removal of access to WordPress.org:
+
+> it would no longer be possible, so it is true that this has broader restrictions than the last offer. No org access means no WordCamps, etc.
+Gone from WordPress community.
+
 ### 2024-10-15
 
 #### Lawyer in "Those Other Lawsuits" responds
