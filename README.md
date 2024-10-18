@@ -98,6 +98,9 @@ Following Matt's escalating threats and actions, WP Engine file [MOTION for Prel
 > ...
 >
 > And there are signs that this is just the beginning—the data also show a 375% increase in customers that have installed tools that will allow them to migrate to another provider, even if they have not yet announced they are terminating WPE’s contract. Id. ¶ 39. Even where a customer has not personally explained their rationale to WPE, the cause-and-effect can be seen not just in the contemporaneous nature of the drops, but also by statements made publicly by both WPE’s customers and Defendants. E.g., id. ¶¶ 35-37, 49. For instance, public posts have shown WPE customers saying such things as Defendants’ takeover of ACF “gave me a minor heart attack.” Teichman ¶¶ 44-45. For his part, Mullenweg has also provided a “forecast” of his own making, claiming that “millions” of customers will lose trust in WPE in the coming weeks, after he unveils future parts of his extortionate and vengeful campaign. Id. ¶ 43; Jenkins Ex. 11
+>
+> ...
+> WPE is informed and believes this “loyalty oath” mindset will soon escalate even further. WPE understands that Defendants will soon demand that agency partners must choose between doing business with WPE, or being similarly cut off from the WordPress community.
 
 
 ### 2024-10-17
