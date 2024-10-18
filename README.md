@@ -14,6 +14,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 ## Timeline
 
 * [2024-10-18](#2024-10-18)
+  * [Matt plans to poach WP Engine employees](#matt-plans-to-poach-wp-engine-employees)
   * [WP Engine file Motion for Preliminary Injunction](#wp-engine-file-motion-for-preliminary-injunction)
 * [2024-10-17](#2024-10-17)
   * [Bans developer of Pods plugin from WordPress.org](#bans-developer-of-pods-plugin-from-wordpressorg)
@@ -88,6 +89,18 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
 
 ### 2024-10-18
+
+#### Matt plans to poach WP Engine employees
+
+Matt acknowledges the pain caused by Automattic employees taking his "alignment" offers. Matt plans to resolve this by poaching WP Engine employees.
+
+> I'll work on an official statement
+> 
+> Probably after we do the hiring offer for WE employees. We're really short staffed at the moment!
+> 
+> That may be awkward for someone who DM'd and will have a later last day (could be next year, even), but my priority is people staying, not people leaving. I'm hearing from people staying that they're stretched thin right now, so we need to hire and ease that overload. It's not a time for a bunch of people to leave at once.
+
+Matt seems to suggest that some employees who accepted the alignment offer will be kept on ("will have a later last day").
 
 #### WP Engine file Motion for Preliminary Injunction
 
