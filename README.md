@@ -14,7 +14,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 ## Timeline
 
 * [2024-10-17](#2024-10-17)
-  * ...
+  * [Bans developer of Pods plugin from WordPress.org](#bans-developer-of-pods-plugin-from-wordpressorg)
   * [Matt uses WordPress news feed to feed his bottom line](#matt-uses-wordpress-news-feed-to-feed-his-bottom-line)
   * [Matt tweets from @WordPress about his own hosts supporting his own website](#matt-tweets-from-wordpress-about-his-own-hosts-supporting-his-own-website)
 * [2024-10-16](#2024-10-16)
@@ -89,7 +89,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 #### Bans developer of Pods plugin from WordPress.org
 
-On October 14th, WordPress contributor [Scott Kingsley Clark] announced he was [stepping down as leader of the Fields API team](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/) due to Matt Mullenweg's conduct. Scott Kingsley Clark is the lead developer of The Pods Framework, a WordPress plugin more than 10 years old, which served as the inspiration behind the Fields API. Pods was previously sponsored by Automattic. In response to Scott's announcement, [Matt commented](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/#comment-47225):
+On October 14th, WordPress contributor [Scott Kingsley Clark](https://profiles.wordpress.org/sc0ttkclark/) announced he was [stepping down as leader of the Fields API team](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/) due to Matt Mullenweg's conduct. Scott Kingsley Clark is the lead developer of The Pods Framework, a WordPress plugin more than 10 years old, which served as the inspiration behind the Fields API. Pods was previously sponsored by Automattic. In response to Scott's announcement, [Matt commented](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/#comment-47225):
 
 > Would you like your accounts to be deactivated?
 
