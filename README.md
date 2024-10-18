@@ -14,6 +14,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 ## Timeline
 
 * [2024-10-17](#2024-10-17)
+  * ...
   * [Matt uses WordPress news feed to feed his bottom line](#matt-uses-wordpress-news-feed-to-feed-his-bottom-line)
   * [Matt tweets from @WordPress about his own hosts supporting his own website](#matt-tweets-from-wordpress-about-his-own-hosts-supporting-his-own-website)
 * [2024-10-16](#2024-10-16)
@@ -85,6 +86,24 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
 
 ### 2024-10-17
+
+#### Bans developer of Pods plugin from WordPress.org
+
+On October 14th, WordPress contributor [Scott Kingsley Clark] announced he was [stepping down as leader of the Fields API team](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/) due to Matt Mullenweg's conduct. Scott Kingsley Clark is the lead developer of The Pods Framework, a WordPress plugin more than 10 years old, which served as the inspiration behind the Fields API. Pods was previously sponsored by Automattic. In response to Scott's announcement, [Matt commented](https://make.wordpress.org/core/2024/10/13/fields-api-team-seeking-new-leadership/#comment-47225):
+
+> Would you like your accounts to be deactivated?
+
+On October 17th, Matt retaliated by disabling Scott's community accounts.
+
+> [@scottkclark](https://x.com/scottkclark/status/1847023270245126357) Today my WordPress.org account was disabled unexpectedly. I did not request that and I have received no communications with reasoning ahead of time or at the time of that being disabled (like most people who were deactivated on Slack or .org disabled).
+>
+> [@scottkclark](https://x.com/scottkclark/status/1847023271474028697) This puts the @podsframework project at risk on .org since we've used the security best-practice of having release confirmations enabled on the Pods plugins on .org since they added that feature. To confirm a release, you must log into WordPress.org.
+>
+> [@scottkclark](https://x.com/scottkclark/status/1847023272765845745) So this was an attack on not just me but also on the Pods project as it means we can't do releases. I have suspected this could happen since the WPE team was locked out of .org so I've already gotten consent from a long time Pods contributor for them to take over the .org listing
+>
+> [@scottkclark](https://x.com/scottkclark/status/1847023273990582373) Now that I have been locked out of .org officially, I made a formal request to transfer ownership of the Pods plugins into their control so that we can continue our normal release processes. Nothing is safe here, unsure if his account will be locked or if Pods will be closed.
+>
+> [@scottkclark](https://x.com/scottkclark/status/1847076733633040384) And now my WordPress.org Slack account has been deactivated, assuming that was part of the syncing of .org disabled accounts to deactivating WP Slack accounts. But still, that truly made the cut deeper and more official in my eyes.
 
 #### Matt uses WordPress news feed to feed his bottom line
 
