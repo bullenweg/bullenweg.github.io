@@ -95,11 +95,12 @@ Following Matt's escalating threats and actions, WP Engine file [MOTION for Prel
 
 > Mullenweg continues to make public statements promising to inflict more harm on WPE with each passing day. On October 7, Mullenweg bragged that he had caused chaos even while he was still on vacation, promising more “surprises for you all on Tuesday, Wednesday, Thursday” in connection with his war against WPE. Brunner ¶ 59, Brunner Ex. J at 1. On October 14, Mullenweg promised: “Oh, there’s more.” Teichman ¶ 28. Further confirming their malicious, anticompetitive intentions in blocking WPE from wordpress.org, Defendants have started contacting WPE customers to induce them to terminate their relationship with WPE and contract with Automattic instead.
 >
-> ...
+> [...]
 >
 > And there are signs that this is just the beginning—the data also show a 375% increase in customers that have installed tools that will allow them to migrate to another provider, even if they have not yet announced they are terminating WPE’s contract. Id. ¶ 39. Even where a customer has not personally explained their rationale to WPE, the cause-and-effect can be seen not just in the contemporaneous nature of the drops, but also by statements made publicly by both WPE’s customers and Defendants. E.g., id. ¶¶ 35-37, 49. For instance, public posts have shown WPE customers saying such things as Defendants’ takeover of ACF “gave me a minor heart attack.” Teichman ¶¶ 44-45. For his part, Mullenweg has also provided a “forecast” of his own making, claiming that “millions” of customers will lose trust in WPE in the coming weeks, after he unveils future parts of his extortionate and vengeful campaign. Id. ¶ 43; Jenkins Ex. 11
 >
-> ...
+> [...]
+> 
 > WPE is informed and believes this “loyalty oath” mindset will soon escalate even further. WPE understands that Defendants will soon demand that agency partners must choose between doing business with WPE, or being similarly cut off from the WordPress community.
 
 
@@ -198,9 +199,13 @@ Matt begins by suggesting an origin story that does not stand up, a lawyer does 
 Matt goes on to claim that the accusations refute themselves. Yet, rather than refute, one of Matt's former employees corroborates the allegations. From "DECLARATION OF JANE WEBER IN SUPPORT OF PLAINTIFFS’ OPPOSITION TO DEFENDANTS” MOTION TO COMPEL ARBITRATION IN LIEU OF FILING ANSWERS":
 
 > I worked for Defendants Matthew Mullenweg and Audrey HC. LLC as the Director of Estate Operations.
+>
 > [...]
+> 
 > Defendant Mullenweg was considered the “boss” for all intents and purposes, however there were many day-to-day matters that never reached his desk. For instance, he rarely assisted in onboarding; the statements in his declaration are highly exaggerated. He did have the final say regarding policies for his company, many of which were unlawful, including his decision to completely ignore California wage and hour laws, and his decision to allow the hostile work environment to continue when he could have taken steps to prevent the harassment from occurring. Several employees complained about the hostile work environment; I advised him on more than one occasion that he was legally bound to correct it, however he ignored my advice.
+>
 > [...]
+> 
 > During the course of my employment with Defendants Mullenweg and Audrey HC, LLC, both Asmahan Attayeb and Jenniffer Westmoreland reported to me. I am aware from each woman, that an abusive and offensive and discriminatory hostile work environment occurred on a routine basis which disrupted the workplace for many of the employees who oftentimes would quit. I know that each of these women, Ms. Attayeb and Ms. Westmoreland, tried to make the best of the circumstances until they could not take it anymore. I know that at or near the time I left the company in early March, the harassment was continuing and in fact, escalated once these women and others complained about the conduct to Defendant Mullenweg. 
 
 ### 2024-10-14
