@@ -13,6 +13,8 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 ## Timeline
 
+* [2024-10-18](#2024-10-18)
+  * [WP Engine file Motion for Preliminary Injunction](#wp-engine-file-motion-for-preliminary-injunction)
 * [2024-10-17](#2024-10-17)
   * [Bans developer of Pods plugin from WordPress.org](#bans-developer-of-pods-plugin-from-wordpressorg)
   * [Matt uses WordPress news feed to feed his bottom line](#matt-uses-wordpress-news-feed-to-feed-his-bottom-line)
@@ -84,6 +86,19 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-18
+
+#### WP Engine file Motion for Preliminary Injunction
+
+Following Matt's escalating threats and actions, WP Engine file [MOTION for Preliminary Injunction filed by WPEngine, Inc](https://storage.courtlistener.com/recap/gov.uscourts.cand.437474/gov.uscourts.cand.437474.17.0.pdf).
+
+> Mullenweg continues to make public statements promising to inflict more harm on WPE with each passing day. On October 7, Mullenweg bragged that he had caused chaos even while he was still on vacation, promising more “surprises for you all on Tuesday, Wednesday, Thursday” in connection with his war against WPE. Brunner ¶ 59, Brunner Ex. J at 1. On October 14, Mullenweg promised: “Oh, there’s more.” Teichman ¶ 28. Further confirming their malicious, anticompetitive intentions in blocking WPE from wordpress.org, Defendants have started contacting WPE customers to induce them to terminate their relationship with WPE and contract with Automattic instead.
+>
+> ...
+>
+> And there are signs that this is just the beginning—the data also show a 375% increase in customers that have installed tools that will allow them to migrate to another provider, even if they have not yet announced they are terminating WPE’s contract. Id. ¶ 39. Even where a customer has not personally explained their rationale to WPE, the cause-and-effect can be seen not just in the contemporaneous nature of the drops, but also by statements made publicly by both WPE’s customers and Defendants. E.g., id. ¶¶ 35-37, 49. For instance, public posts have shown WPE customers saying such things as Defendants’ takeover of ACF “gave me a minor heart attack.” Teichman ¶¶ 44-45. For his part, Mullenweg has also provided a “forecast” of his own making, claiming that “millions” of customers will lose trust in WPE in the coming weeks, after he unveils future parts of his extortionate and vengeful campaign. Id. ¶ 43; Jenkins Ex. 11
+
 
 ### 2024-10-17
 
