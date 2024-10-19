@@ -96,7 +96,7 @@ Matt acknowledges the pain caused by Automattic employees taking his "alignment"
 
 > I'll work on an official statement
 > 
-> Probably after we do the hiring offer for WE employees. We're really short staffed at the moment!
+> Probably after we do the hiring offer for WPE employees. We're really short staffed at the moment!
 > 
 > That may be awkward for someone who DM'd and will have a later last day (could be next year, even), but my priority is people staying, not people leaving. I'm hearing from people staying that they're stretched thin right now, so we need to hire and ease that overload. It's not a time for a bunch of people to leave at once.
 
