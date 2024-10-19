@@ -104,6 +104,8 @@ Matt acknowledges the pain caused by Automattic employees taking his "alignment"
 
 Matt seems to suggest that some employees who accepted the alignment offer will be kept on ("will have a later last day").
 
+##### "Get The F Out! Baby Please Don’t Go!"
+
 [antimattic.net](https://antimattic.net/index.php/2024/10/19/get-the-f-out-baby-please-dont-go/) has since provided more background on the above messages:
 
 > When asked if the offer was still valid he confirmed that it was. Shortly after he would board a flight to Hawaii.
