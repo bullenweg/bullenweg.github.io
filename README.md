@@ -201,6 +201,8 @@ Susan Rubenstein, attorney representing the nurses in "Those Other Lawsuits", ad
 
 > While I would like to respond in detail to the false and self-serving statements made by Mr. Mullenweg,  I believe that it is the better practice to not comment on a case that is in active litigation. Because his comments were made online, I do feel compelled to state that I stand by all the allegations set forth in the Complaints filed on behalf of each of these women. I do not file spurious complaints, nor do I "recruit" clients. The complaints were not sent to the press, nor are any of the allegations contained therein exaggerated. Last, Mr. Mullenweg's claim that he was told by me that unless he paid a specific sum of money, the Complaints would be filed, is also false.
 
+Response provided by email at 16 Oct 2024 03:15:03 +0000 from `Susan@susanrubensteinlaw.com`.
+
 #### Addresses "Those Other Lawsuits"
 
 Matt publishes "[Those Other Lawsuits](https://ma.tt/2024/10/other-lawsuits/)" (see: [Lawsuit filed against Matt by his Mother’s private nurse](#lawsuit-filed-against-matt-by-his-mothers-private-nurse)).
