@@ -94,13 +94,23 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 Matt acknowledges the pain caused by Automattic employees taking his "alignment" offers. Matt plans to resolve this by poaching WP Engine employees.
 
-> I'll work on an official statement
-> 
-> Probably after we do the hiring offer for WPE employees. We're really short staffed at the moment!
-> 
-> That may be awkward for someone who DM'd and will have a later last day (could be next year, even), but my priority is people staying, not people leaving. I'm hearing from people staying that they're stretched thin right now, so we need to hire and ease that overload. It's not a time for a bunch of people to leave at once.
+> ⁠I’ll work on an official statement. Probably after we do the hiring offer for WPE employees. We’re really short staffed at the moment!
+>
+> That may be awkward for someone who DM’d and will have a later last day (could be next year, even), but my priority is people staying, not people leaving. I’m hearing from people staying that they’re stretched thin right now, so we need to hire and ease that overload.
+>
+> It’s not a time for a bunch of people to leave at once.
+>
+> So, I ask people to continue fulfilling their confidentiality and work contracts.
 
 Matt seems to suggest that some employees who accepted the alignment offer will be kept on ("will have a later last day").
+
+[antimattic.net](https://antimattic.net/index.php/2024/10/19/get-the-f-out-baby-please-dont-go/) has since provided more background on the above messages:
+
+> When asked if the offer was still valid he confirmed that it was. Shortly after he would board a flight to Hawaii.
+>
+> Other Automatticians had messaged him to accept. A single additional name would be added to the Access-Checklist P2. With no further updates many assumed that only two people accepted this offer.
+>
+> Slowly through calls, texts, and rumors word began to swirl that several other people had messaged him to accept the offer but the promised acknowledged response never came. The previous offer came the day ofter Mullenweg announced that going forward all resignations would be effective and have their access removed the same day.
 
 #### WP Engine file Motion for Preliminary Injunction
 
@@ -685,6 +695,7 @@ Following a many-years long dispute with author of [Thesis WordPress Theme Syste
 * [The Mattrix Derailed / mattrixderailed.com](https://mattrixderailed.com/)
 * [Matt Engine / mattengine.com](https://mattengine.com/)
 * [WordPress vs. WP Engine Dispute Timeline / wpvswpe.report](https://wpvswpe.report/)
+* [AntiMATTic / antimattic.net](https://antimattic.net/)
 
 ## Contribute
 
