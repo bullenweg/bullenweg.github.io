@@ -13,6 +13,8 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 ## Timeline
 
+* [2024-10-20](#2024-10-20)
+  * [Matt accuses WP Engine of attempting to curtail his First Amendment rights](#matt-accuses-wp-engine-of-attempting-to-curtail-his-first-amendment-rights)
 * [2024-10-18](#2024-10-18)
   * [Matt plans to poach WP Engine employees](#matt-plans-to-poach-wp-engine-employees)
   * [WP Engine file Motion for Preliminary Injunction](#wp-engine-file-motion-for-preliminary-injunction)
@@ -87,6 +89,24 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-20
+
+#### Matt accuses WP Engine of attempting to curtail his First Amendment rights
+
+In [My Freedom of Speech](https://ma.tt/2024/10/first-amendment/) Matt writes:
+
+> WP Engine has filed hundreds pages of legal documents seeking an injunction against me and Automattic. They say this about community or some nonsense, but if you look at the core, what they’re trying to do is ask a judge to curtail my First Amendment rights.
+
+Just yesterday, Matt introduced new speech-curtailing Code of Conduct rules for WordPress.org: [Expanding Our Code of Conduct to Protect Private Conversations](https://wordpress.org/news/2024/10/protect-private-conversations/). A few days ago, [Matt threatened "a big legal case" against someone for speaking out](#offers-new-exploding-alignment-offer). Matt's (supposed) motivation for the dispute with WP Engine is an attempt to curtail their Freedom of Speech, ["The problem [is] their use of the WordPress and WooCommerce trademarks."](#lies-about-motivation-for-dispute-with-wp-engine). WordPress.org is deleting [reviews on the Secure Custom Fields plugin](https://wordpress.org/plugins/advanced-custom-fields/#reviews).
+
+Fortunately, Matt has made progress. Matt has learned that the First Amendment also gives him the right to shut up. The post ends on a much more positive note.
+
+> **Quiet For A While**
+> 
+> After this post, I will refrain from personally commenting on the WP Engine case until a judge rules on the injunction.
+
+Mark the date, Matt learned to shut up on 2024-10-20.
 
 ### 2024-10-18
 
