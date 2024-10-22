@@ -89,6 +89,8 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Identifies GoDaddy as an "existential threat to WP's future"](#identifies-godaddy-as-an-existential-threat-to-wps-future)
 * [2014-01-15](#2014-01-15)
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
+* [2011-01-06](2024-01-06)
+  * [Tries to get critic fired](#tries-to-get-critic-fired)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
 
@@ -686,6 +688,18 @@ Maybe this is [another typo](#lies-about-lawyer-statements). Matt may have meant
 Following a many-years long dispute with author of [Thesis WordPress Theme System](https://pearsonified.com/projects/thesis/) Chris Pearson, Matt acquires the domain `thesis.com` for $100,000 in retaliation.
 
 > Principles? Matt spent $100,000 to buy thesis.com—a domain in which he had no legitimate business interest—forwarded the domain to his property, and violated my trademark. ~[The Truth About Thesis.com](https://pearsonified.com/truth-about-thesis-com/)
+
+### 2011-01-06
+
+#### Tries to get critic fired
+
+In [Matt Mullenweg Tried to Get Me Fired](https://web.archive.org/web/20110117192124/http://wpblogger.com/mullenweg-the-coward.php) Ben Cook writes:
+
+> And while I certainly didn’t expect my call for his resignation to earn me an invitation to the Mullenweg Christmas dinner, I was honestly shocked at the cowardly reaction it apparently elicited.
+>
+> [...]
+>
+> But, when Matt Mullenweg decided he’d had enough of my criticism, he didn’t come to me personally. Instead, as any true freedom loving person would do, he decided to go over my head and raise the issue with my employer. Matt, by his own admission, claimed that my writings here and on Twitter “borders on hate speech and reflects badly on any organization you’re associated with, regardless of any disclaimers you may have.”
 
 ### 2010-09-13
 
