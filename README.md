@@ -471,7 +471,6 @@ Since October 5th:
 > **Why doesn’t Automattic rename WordPress.com to something more distinct?**
 > WordPress.com offers multi-site for free and on very inexpensive plans, has never had any downtime or lost user data since 2005, and has onboarded and introduced hundreds of millions of people to WordPress. Their higher-tier plans offer some of the fastest and most secure WordPress Managed Hosting available anywhere, with full plugin and theme support. That advanced managed platform is now licensed to other hosts through wp.cloud and is raising the bar for the industry. The flavor of WordPress offered by WordPress.com is a huge asset to the brand and adoption of WordPress overall.
 
-
 #### Refuses to leave former Automattic employee Slack channel
 
 > @photomatt joins the chat and refuses to leave after being asked politely. A safe space for former automatticians. ~[@kellie on X](https://x.com/kellie/status/1842625951508701214)
@@ -710,8 +709,8 @@ Lawsuits and other legal filings.
 
 | Date | From | To | Letter |
 | ---- | ---- | -- | ------ |
-| 2024-09-23 | WP Engine | Automattic | [Re: Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
 | 2024-09-23 | Automattic | WP Engine | [Re: Unauthorized Use of WordPress Foundation and WooCommerce, Inc. Intellectual Property](https://automattic.com/2024/wp-engine-cease-and-desist.pdf) (+ [exhibits](https://automattic.com/2024/wp-engine-cease-and-desist-exhibits.pdf))|
+| 2024-09-23 | WP Engine | Automattic | [Re: Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
 
 ## References
 
