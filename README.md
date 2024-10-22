@@ -13,6 +13,8 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 ## Timeline
 
+* [2024-10-21](#2024-10-21)
+  * [Matt announces acquisition of Bullenweg.com](#matt-announces-acquisition-of-bullenwegcom)
 * [2024-10-20](#2024-10-20)
   * [Matt accuses WP Engine of attempting to curtail his First Amendment rights](#matt-accuses-wp-engine-of-attempting-to-curtail-his-first-amendment-rights)
 * [2024-10-18](#2024-10-18)
@@ -89,6 +91,24 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Acquires thesis.com to spite WordPress theme developer](#acquires-thesiscom-to-spite-wordpress-theme-developer)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-21
+
+#### Matt announces acquisition of Bullenweg.com
+
+SAN FRANCISCO, California, Oct. 21, 2024 /BSNewswire/ -- Matthew Charles Mullenweg announces acquisition of Bullenweg.com to his employees at Automattic. Matthew had the following to say:
+
+> As a person with no grasp on what is true and what is not true, I am proud to announce the acquisition of Bullenweg.com. Bullenweg.com continues to be the best-organized source of everything going on. Bullenweg.com is doing important work because it is hard for any one person to keep up with all of my lies. I am optimistic that my announcement will suppress leaking from within Automattic to the website.*
+
+Bullenweg founder B. Ullenweg, Esq. added:
+
+> Unfortunately, Matt's announcements about this acquisition has as much integrity as the rest of his claims. We hope that Matt reconsiders whether now is the time to further undermine his integrity by making false claims about his ownership over this website. We welcome a sincere attempt from Matt to acquire Bullenweg.com.
+
+About Bullenweg.com:
+
+Bullenweg.com is the leading independent source of information on the behavior of Matthew Charles Mullenweg.
+
+<sup>* Not an actual quote from Matthew Mullenweg.</sup>
 
 ### 2024-10-20
 
