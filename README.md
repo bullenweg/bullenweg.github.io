@@ -698,11 +698,20 @@ Following a many-years long dispute with author of [Thesis WordPress Theme Syste
 
 ## Lawsuits
 
+Lawsuits and other legal filings.
+
 | Date | Complaint | 
 | ---- | --------- |
 | 2024-10-02 | [WPENGINE, INC., vs. AUTOMATTIC INC.; and MATTHEW CHARLES MULLENWEG](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) | 
 | 2022-06-09 | [ASMAHAN ATTAYEB vs. MATTHEW C. MULLENWEG; KATHLEEN MULLENWEG; and AUDREY HC, LLC](/CGC-22-600093.pdf) | 
 | 2022-06-09 | [JENNIFFER L. WESTMORELAND vs. MATTHEW C. MULLENWEG; KATHLEEN MULLENWEG; and AUDREY HC, LLC](/CGC-22-600095.pdf) | 
+
+### Cease and Desists
+
+| Date | From | To | Letter |
+| ---- | ---- | -- | ------ |
+| 2024-09-23 | WP Engine | Automattic | [Re: Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
+| 2024-09-23 | Automattic | WP Engine | [Re: Unauthorized Use of WordPress Foundation and WooCommerce, Inc. Intellectual Property](https://automattic.com/2024/wp-engine-cease-and-desist.pdf) (+ [exhibits](https://automattic.com/2024/wp-engine-cease-and-desist-exhibits.pdf))|
 
 ## References
 
