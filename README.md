@@ -120,6 +120,14 @@ On October 2nd, Matt said this on Hacker News ([source](https://news.ycombinator
 
 > Automattic employs ~100 people that work full-time on WordPress.org. I can appoint them into positions on WordPress.org, if I think that's appropriate.
 
+The legal filing also touches on the availability of WordPress itself:
+
+> WordPress is open source software that is, always has been, and remains freely available to Plaintiff— anyone in the world, including Plaintiff, can visit https://github.com/WordPress/WordPress and download WordPress software for their own use, for free.
+
+Contrary to this statement, "[Hardening WordPress](https://developer.wordpress.org/advanced-administration/security/hardening/)" warns **never** to do this.
+
+> The latest version of WordPress is always available from the main WordPress website at https://wordpress.org. Official releases are not available from other sites — never download or install WordPress from any website other than https://wordpress.org.
+
 ### 2024-10-21
 
 #### Matt announces acquisition of Bullenweg.com
