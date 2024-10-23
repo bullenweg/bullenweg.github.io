@@ -13,6 +13,8 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 ## Timeline
 
+* [2024-10-22](#2024-10-22)
+  * [Describes building a business around WordPress.org as a "gamble"](#describes-building-a-business-around-wordpressorg-as-a-gamble)
 * [2024-10-21](#2024-10-21)
   * [Matt announces acquisition of Bullenweg.com](#matt-announces-acquisition-of-bullenwegcom)
 * [2024-10-20](#2024-10-20)
@@ -93,6 +95,30 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Tries to get critic fired](#tries-to-get-critic-fired)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-22
+
+#### Describes building a business around WordPress.org as a "gamble"
+
+In [Opposition/Response to Motion](https://storage.courtlistener.com/recap/gov.uscourts.cand.437474/gov.uscourts.cand.437474.33.0.pdf) filed on 2024-10-22, Matt's lawyers describe WordPress.org as "Mr. Mullenweg’s website".
+
+> Rather than being about access to WordPress software, this case instead is about WordPress.org – a website owned and run by Defendant Matt Mullenweg individually, for the benefit of the community he loves.
+
+The legal filing goes on to describe the mistake WP Engine made in building a business that relies on WordPress.org:
+
+> In doing so, WP Engine gambled for the sake of profit that Mr. Mullenweg would continue to maintain open access to his website for free.
+
+Are we all taking the same gamble, that Matt will continue to provide open access to WordPress.org to us for free?
+
+> WordPress.org is not WordPress. WordPress.org is not Automattic or the WordPress Foundation, and is not controlled by either. To the contrary, as Plaintiff itself acknowledges, WordPress.org is Mr. Mullenweg’s responsibility.
+
+On Twitter, a former Automattic employee responds:
+
+> That is WILD considering that an entire division within @automattic is called DOTORG and we were all lead to believe that wordpress.org was the home of the open source project. ~[@kellie](https://x.com/kellie/status/1848960347312689638)
+
+On October 2nd, Matt said this on Hacker News ([source](https://news.ycombinator.com/item?id=41726796)):
+
+> Automattic employs ~100 people that work full-time on WordPress.org. I can appoint them into positions on WordPress.org, if I think that's appropriate.
 
 ### 2024-10-21
 
