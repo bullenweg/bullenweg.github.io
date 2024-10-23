@@ -112,6 +112,8 @@ Are we all taking the same gamble, that Matt will continue to provide open acces
 
 > WordPress.org is not WordPress. WordPress.org is not Automattic or the WordPress Foundation, and is not controlled by either. To the contrary, as Plaintiff itself acknowledges, WordPress.org is Mr. Mullenweg’s responsibility.
 
+Who pays for the WordPress.org servers, Matt? Who pays for the employee's full-time work on WordPress.org, Matt?
+
 On Twitter, a former Automattic employee responds:
 
 > That is WILD considering that an entire division within @automattic is called DOTORG and we were all lead to believe that wordpress.org was the home of the open source project. ~[@kellie](https://x.com/kellie/status/1848960347312689638)
