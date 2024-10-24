@@ -13,6 +13,8 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 ## Timeline
 
+* [2024-10-23](#2024-10-23)
+  * [Matt tries to pay Kendrick Lamar to record a WP Engine diss track](#matt-tries-to-pay-kendrick-lamar-to-record-a-wp-engine-diss-track)
 * [2024-10-22](#2024-10-22)
   * [Describes building a business around WordPress.org as a "gamble"](#describes-building-a-business-around-wordpressorg-as-a-gamble)
 * [2024-10-21](#2024-10-21)
@@ -95,6 +97,14 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
   * [Tries to get critic fired](#tries-to-get-critic-fired)
 * [2010-09-13](#2010-09-13)
   * [Community blog wordpress™ wank publishes prescient post warning Matt's behaviour](#community-blog-wordpress-wank-publishes-prescient-post-warning-matts-behaviour)
+
+### 2024-10-23
+
+#### Matt tries to pay Kendrick Lamar to record a WP Engine diss track
+
+> You cannot make this shit up. Matt Mullenweg tried to spend $500k+ to get @kendricklamar to record a WP Engine dis track. Excellent use of investor money right there folks. [@kellie](https://x.com/kellie/status/1849442155066007794)
+
+Matt thinks he's Kendrick, but really, he's Drake.
 
 ### 2024-10-22
 
