@@ -126,7 +126,7 @@ The legal filing also touches on the availability of WordPress itself:
 
 > WordPress is open source software that is, always has been, and remains freely available to Plaintiff— anyone in the world, including Plaintiff, can visit https://github.com/WordPress/WordPress and download WordPress software for their own use, for free.
 
-Contrary to this statement, "[Hardening WordPress](https://developer.wordpress.org/advanced-administration/security/hardening/)" warns **never** to do this.
+Contrary to this statement, "[Hardening WordPress](https://developer.wordpress.org/advanced-administration/security/hardening/#vulnerabilities-in-wordpress)" on WordPress.org warns **never** to do this.
 
 > The latest version of WordPress is always available from the main WordPress website at https://wordpress.org. Official releases are not available from other sites — never download or install WordPress from any website other than https://wordpress.org.
 
