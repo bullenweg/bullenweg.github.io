@@ -519,7 +519,9 @@ Since October 5th:
 
 > May 30: Automattic shares first term sheet with WP Engine via email.
 
-The term sheet Automattic sent to WP Engine in May 2024 did not refer to the WordPress Trademark.
+The term sheet Automattic sent to WP Engine in May 2024 relates to a WooCommerce partnership, not a WordPress trademark license. From [WPENGINE, INC., vs. AUTOMATTIC INC.; and MATTHEW CHARLES MULLENWEG](#lawsuits):
+
+> Defendants have publicly stated that Automattic had been in discussions with WPE concerning their purported claim that WPE was infringing their trademarks for approximately 18 months leading up to their extortive demands in mid-September 2024. That is false. Rather, earlier in 2024, Automattic had proposed that WPE participate in a WooCommerce “Hosting Partner Program,” which would have involved WPE collaborating to advance WooCommerce as the leading e-commerce engine for the WordPress ecosystem; Automattic’s proposal referenced the inclusion of a trademark license (which WPE did not need under governing trademark law), but made no accusations that WPE was violating any trademarks. Nor did Defendants ask WPE to make any changes to its references to WordPress or WooCommerce on its website. In any event, Automattic unilaterally shut down those discussions in August 2024 without an agreement, informing WPE that Automattic was “reassessing how we will deal with WP Engine.” Thereafter, WPE received no further communications from Defendants concerning trademarks until the above-referenced extortion demand in mid-September, 2024.
 
 #### ~~Blocks Automattic employees from using Blind~~
 
