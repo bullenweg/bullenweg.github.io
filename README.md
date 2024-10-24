@@ -102,7 +102,7 @@ Every time Matt Mullenweg has lied, misrepresented, behaved in a questionable ma
 
 #### Matt tries to pay Kendrick Lamar to record a WP Engine diss track
 
-> You cannot make this shit up. Matt Mullenweg tried to spend $500k+ to get @kendricklamar to record a WP Engine dis track. Excellent use of investor money right there folks. [@kellie](https://x.com/kellie/status/1849442155066007794)
+> You cannot make this shit up. Matt Mullenweg tried to spend $500k+ to get @kendricklamar to record a WP Engine dis track. Excellent use of investor money right there folks. ~[@kellie](https://x.com/kellie/status/1849442155066007794)
 
 Matt thinks he's Kendrick, but really, he's Drake.
 
