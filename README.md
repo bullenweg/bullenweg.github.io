@@ -812,6 +812,7 @@ Lawsuits and other legal filings.
 * [Matt Engine / mattengine.com](https://mattengine.com/)
 * [WordPress vs. WP Engine Dispute Timeline / wpvswpe.report](https://wpvswpe.report/)
 * [AntiMATTic / antimattic.net](https://antimattic.net/)
+* [WP Engine's timeline of events / wpengine.com](https://wpengine.com/blog/ensuring-stability-and-security/)
 
 ## Contribute
 
